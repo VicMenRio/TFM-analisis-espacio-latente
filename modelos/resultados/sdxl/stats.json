@@ -1,0 +1,18 @@
+{
+  "model_key": "sdxl",
+  "fecha": "2026-05-28T19:06:39.459123",
+  "prompt": "a red apple on a wooden table, studio lighting, photorealistic",
+  "seed": 42,
+  "num_steps": 30,
+  "latent_shape": [
+    1,
+    4,
+    128,
+    128
+  ],
+  "latent_dim": 65536,
+  "z0_mean": -0.188019,
+  "z0_std": 0.594863,
+  "z0_norm": 159.7095,
+  "vae_mae": 1.8022
+}

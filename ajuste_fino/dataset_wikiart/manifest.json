@@ -1,0 +1,4002 @@
+[
+  {
+    "id": 0,
+    "filename": "00000.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a impressionist genre painting painting by Artist"
+  },
+  {
+    "id": 1,
+    "filename": "00001.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "berthe-morisot",
+    "caption": "a impressionist genre painting painting by berthe-morisot"
+  },
+  {
+    "id": 2,
+    "filename": "00002.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "berthe-morisot",
+    "caption": "a impressionist genre painting painting by berthe-morisot"
+  },
+  {
+    "id": 3,
+    "filename": "00003.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a impressionist genre painting painting by Artist"
+  },
+  {
+    "id": 4,
+    "filename": "00004.png",
+    "style": "Impressionism",
+    "genre": "landscape",
+    "artist": "john-henry-twachtman",
+    "caption": "a impressionist landscape painting by john-henry-twachtman"
+  },
+  {
+    "id": 5,
+    "filename": "00005.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a impressionist genre painting painting by Artist"
+  },
+  {
+    "id": 6,
+    "filename": "00006.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "william-merritt-chase",
+    "caption": "a impressionist genre painting painting by william-merritt-chase"
+  },
+  {
+    "id": 7,
+    "filename": "00007.png",
+    "style": "Impressionism",
+    "genre": "portrait",
+    "artist": "nikolay-bogdanov-belsky",
+    "caption": "a impressionist portrait painting by nikolay-bogdanov-belsky"
+  },
+  {
+    "id": 8,
+    "filename": "00008.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "william-merritt-chase",
+    "caption": "a impressionist genre painting painting by william-merritt-chase"
+  },
+  {
+    "id": 9,
+    "filename": "00009.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a impressionist genre painting painting by Artist"
+  },
+  {
+    "id": 10,
+    "filename": "00010.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a impressionist genre painting painting by Artist"
+  },
+  {
+    "id": 11,
+    "filename": "00011.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a impressionist genre painting painting by Artist"
+  },
+  {
+    "id": 12,
+    "filename": "00012.png",
+    "style": "Impressionism",
+    "genre": "portrait",
+    "artist": "mary-cassatt",
+    "caption": "a impressionist portrait painting by mary-cassatt"
+  },
+  {
+    "id": 13,
+    "filename": "00013.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a impressionist genre painting painting by Artist"
+  },
+  {
+    "id": 14,
+    "filename": "00014.png",
+    "style": "Impressionism",
+    "genre": "landscape",
+    "artist": "william-merritt-chase",
+    "caption": "a impressionist landscape painting by william-merritt-chase"
+  },
+  {
+    "id": 15,
+    "filename": "00015.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a impressionist genre painting painting by Artist"
+  },
+  {
+    "id": 16,
+    "filename": "00016.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a impressionist genre painting painting by Artist"
+  },
+  {
+    "id": 17,
+    "filename": "00017.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "william-merritt-chase",
+    "caption": "a impressionist genre painting painting by william-merritt-chase"
+  },
+  {
+    "id": 18,
+    "filename": "00018.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "konstantin-korovin",
+    "caption": "a impressionist genre painting painting by konstantin-korovin"
+  },
+  {
+    "id": 19,
+    "filename": "00019.png",
+    "style": "Impressionism",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a impressionist landscape painting by Artist"
+  },
+  {
+    "id": 20,
+    "filename": "00020.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a impressionist genre painting painting by Artist"
+  },
+  {
+    "id": 21,
+    "filename": "00021.png",
+    "style": "Impressionism",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a impressionist landscape painting by Artist"
+  },
+  {
+    "id": 22,
+    "filename": "00022.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "konstantin-korovin",
+    "caption": "a impressionist genre painting painting by konstantin-korovin"
+  },
+  {
+    "id": 23,
+    "filename": "00023.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a impressionist genre painting painting by Artist"
+  },
+  {
+    "id": 24,
+    "filename": "00024.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a impressionist genre painting painting by Artist"
+  },
+  {
+    "id": 25,
+    "filename": "00025.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "gustave-caillebotte",
+    "caption": "a impressionist genre painting painting by gustave-caillebotte"
+  },
+  {
+    "id": 26,
+    "filename": "00026.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "maurice-prendergast",
+    "caption": "a impressionist genre painting painting by maurice-prendergast"
+  },
+  {
+    "id": 27,
+    "filename": "00027.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "joaquã­n-sorolla",
+    "caption": "a impressionist genre painting painting by joaquã­n-sorolla"
+  },
+  {
+    "id": 28,
+    "filename": "00028.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a impressionist genre painting painting by Artist"
+  },
+  {
+    "id": 29,
+    "filename": "00029.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "berthe-morisot",
+    "caption": "a impressionist genre painting painting by berthe-morisot"
+  },
+  {
+    "id": 30,
+    "filename": "00030.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a impressionist genre painting painting by Artist"
+  },
+  {
+    "id": 31,
+    "filename": "00031.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "joaquã­n-sorolla",
+    "caption": "a impressionist genre painting painting by joaquã­n-sorolla"
+  },
+  {
+    "id": 32,
+    "filename": "00032.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "william-merritt-chase",
+    "caption": "a impressionist genre painting painting by william-merritt-chase"
+  },
+  {
+    "id": 33,
+    "filename": "00033.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "henri-martin",
+    "caption": "a impressionist genre painting painting by henri-martin"
+  },
+  {
+    "id": 34,
+    "filename": "00034.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "konstantin-korovin",
+    "caption": "a impressionist genre painting painting by konstantin-korovin"
+  },
+  {
+    "id": 35,
+    "filename": "00035.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "mary-cassatt",
+    "caption": "a impressionist genre painting painting by mary-cassatt"
+  },
+  {
+    "id": 36,
+    "filename": "00036.png",
+    "style": "Impressionism",
+    "genre": "portrait",
+    "artist": "berthe-morisot",
+    "caption": "a impressionist portrait painting by berthe-morisot"
+  },
+  {
+    "id": 37,
+    "filename": "00037.png",
+    "style": "Impressionism",
+    "genre": "portrait",
+    "artist": "mary-cassatt",
+    "caption": "a impressionist portrait painting by mary-cassatt"
+  },
+  {
+    "id": 38,
+    "filename": "00038.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "konstantin-korovin",
+    "caption": "a impressionist genre painting painting by konstantin-korovin"
+  },
+  {
+    "id": 39,
+    "filename": "00039.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a impressionist genre painting painting by Artist"
+  },
+  {
+    "id": 40,
+    "filename": "00040.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "mary-cassatt",
+    "caption": "a impressionist genre painting painting by mary-cassatt"
+  },
+  {
+    "id": 41,
+    "filename": "00041.png",
+    "style": "Impressionism",
+    "genre": "portrait",
+    "artist": "william-merritt-chase",
+    "caption": "a impressionist portrait painting by william-merritt-chase"
+  },
+  {
+    "id": 42,
+    "filename": "00042.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "edouard-manet",
+    "caption": "a impressionist genre painting painting by edouard-manet"
+  },
+  {
+    "id": 43,
+    "filename": "00043.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a impressionist genre painting painting by Artist"
+  },
+  {
+    "id": 44,
+    "filename": "00044.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "edouard-manet",
+    "caption": "a impressionist genre painting painting by edouard-manet"
+  },
+  {
+    "id": 45,
+    "filename": "00045.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "joaquã­n-sorolla",
+    "caption": "a impressionist genre painting painting by joaquã­n-sorolla"
+  },
+  {
+    "id": 46,
+    "filename": "00046.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "nikolay-bogdanov-belsky",
+    "caption": "a impressionist genre painting painting by nikolay-bogdanov-belsky"
+  },
+  {
+    "id": 47,
+    "filename": "00047.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "paul-gauguin",
+    "caption": "a impressionist genre painting painting by paul-gauguin"
+  },
+  {
+    "id": 48,
+    "filename": "00048.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "nikolay-bogdanov-belsky",
+    "caption": "a impressionist genre painting painting by nikolay-bogdanov-belsky"
+  },
+  {
+    "id": 49,
+    "filename": "00049.png",
+    "style": "Impressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a impressionist genre painting painting by Artist"
+  },
+  {
+    "id": 50,
+    "filename": "00050.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "aleksey-savrasov",
+    "caption": "a realist genre painting painting by aleksey-savrasov"
+  },
+  {
+    "id": 51,
+    "filename": "00051.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a realist genre painting painting by Artist"
+  },
+  {
+    "id": 52,
+    "filename": "00052.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a realist genre painting painting by Artist"
+  },
+  {
+    "id": 53,
+    "filename": "00053.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "vasily-vereshchagin",
+    "caption": "a realist genre painting painting by vasily-vereshchagin"
+  },
+  {
+    "id": 54,
+    "filename": "00054.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a realist genre painting painting by Artist"
+  },
+  {
+    "id": 55,
+    "filename": "00055.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "nikolay-bogdanov-belsky",
+    "caption": "a realist genre painting painting by nikolay-bogdanov-belsky"
+  },
+  {
+    "id": 56,
+    "filename": "00056.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a realist genre painting painting by Artist"
+  },
+  {
+    "id": 57,
+    "filename": "00057.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "vasily-perov",
+    "caption": "a realist genre painting painting by vasily-perov"
+  },
+  {
+    "id": 58,
+    "filename": "00058.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "camille-corot",
+    "caption": "a realist genre painting painting by camille-corot"
+  },
+  {
+    "id": 59,
+    "filename": "00059.png",
+    "style": "Realism",
+    "genre": "landscape",
+    "artist": "aleksey-savrasov",
+    "caption": "a realist landscape painting by aleksey-savrasov"
+  },
+  {
+    "id": 60,
+    "filename": "00060.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "gustave-courbet",
+    "caption": "a realist genre painting painting by gustave-courbet"
+  },
+  {
+    "id": 61,
+    "filename": "00061.png",
+    "style": "Realism",
+    "genre": "portrait",
+    "artist": "ferdinand-hodler",
+    "caption": "a realist portrait painting by ferdinand-hodler"
+  },
+  {
+    "id": 62,
+    "filename": "00062.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a realist genre painting painting by Artist"
+  },
+  {
+    "id": 63,
+    "filename": "00063.png",
+    "style": "Realism",
+    "genre": "landscape",
+    "artist": "arkhip-kuindzhi",
+    "caption": "a realist landscape painting by arkhip-kuindzhi"
+  },
+  {
+    "id": 64,
+    "filename": "00064.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a realist genre painting painting by Artist"
+  },
+  {
+    "id": 65,
+    "filename": "00065.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a realist genre painting painting by Artist"
+  },
+  {
+    "id": 66,
+    "filename": "00066.png",
+    "style": "Realism",
+    "genre": "sketch_and_study",
+    "artist": "Unknown Artist",
+    "caption": "a realist sketch and study painting by Artist"
+  },
+  {
+    "id": 67,
+    "filename": "00067.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "james-tissot",
+    "caption": "a realist genre painting painting by james-tissot"
+  },
+  {
+    "id": 68,
+    "filename": "00068.png",
+    "style": "Realism",
+    "genre": "landscape",
+    "artist": "gustave-courbet",
+    "caption": "a realist landscape painting by gustave-courbet"
+  },
+  {
+    "id": 69,
+    "filename": "00069.png",
+    "style": "Realism",
+    "genre": "portrait",
+    "artist": "Unknown Artist",
+    "caption": "a realist portrait painting by Artist"
+  },
+  {
+    "id": 70,
+    "filename": "00070.png",
+    "style": "Realism",
+    "genre": "still_life",
+    "artist": "edouard-manet",
+    "caption": "a realist still life painting by edouard-manet"
+  },
+  {
+    "id": 71,
+    "filename": "00071.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a realist genre painting painting by Artist"
+  },
+  {
+    "id": 72,
+    "filename": "00072.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a realist genre painting painting by Artist"
+  },
+  {
+    "id": 73,
+    "filename": "00073.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "viktor-vasnetsov",
+    "caption": "a realist genre painting painting by viktor-vasnetsov"
+  },
+  {
+    "id": 74,
+    "filename": "00074.png",
+    "style": "Realism",
+    "genre": "sketch_and_study",
+    "artist": "vasily-polenov",
+    "caption": "a realist sketch and study painting by vasily-polenov"
+  },
+  {
+    "id": 75,
+    "filename": "00075.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "isaac-levitan",
+    "caption": "a realist genre painting painting by isaac-levitan"
+  },
+  {
+    "id": 76,
+    "filename": "00076.png",
+    "style": "Realism",
+    "genre": "sketch_and_study",
+    "artist": "valentin-serov",
+    "caption": "a realist sketch and study painting by valentin-serov"
+  },
+  {
+    "id": 77,
+    "filename": "00077.png",
+    "style": "Realism",
+    "genre": "portrait",
+    "artist": "edouard-manet",
+    "caption": "a realist portrait painting by edouard-manet"
+  },
+  {
+    "id": 78,
+    "filename": "00078.png",
+    "style": "Realism",
+    "genre": "landscape",
+    "artist": "isaac-levitan",
+    "caption": "a realist landscape painting by isaac-levitan"
+  },
+  {
+    "id": 79,
+    "filename": "00079.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a realist genre painting painting by Artist"
+  },
+  {
+    "id": 80,
+    "filename": "00080.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "thomas-eakins",
+    "caption": "a realist genre painting painting by thomas-eakins"
+  },
+  {
+    "id": 81,
+    "filename": "00081.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "gustave-courbet",
+    "caption": "a realist genre painting painting by gustave-courbet"
+  },
+  {
+    "id": 82,
+    "filename": "00082.png",
+    "style": "Realism",
+    "genre": "still_life",
+    "artist": "henri-fantin-latour",
+    "caption": "a realist still life painting by henri-fantin-latour"
+  },
+  {
+    "id": 83,
+    "filename": "00083.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a realist genre painting painting by Artist"
+  },
+  {
+    "id": 84,
+    "filename": "00084.png",
+    "style": "Realism",
+    "genre": "landscape",
+    "artist": "ivan-kramskoy",
+    "caption": "a realist landscape painting by ivan-kramskoy"
+  },
+  {
+    "id": 85,
+    "filename": "00085.png",
+    "style": "Realism",
+    "genre": "sketch_and_study",
+    "artist": "isaac-levitan",
+    "caption": "a realist sketch and study painting by isaac-levitan"
+  },
+  {
+    "id": 86,
+    "filename": "00086.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "gustave-courbet",
+    "caption": "a realist genre painting painting by gustave-courbet"
+  },
+  {
+    "id": 87,
+    "filename": "00087.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a realist genre painting painting by Artist"
+  },
+  {
+    "id": 88,
+    "filename": "00088.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a realist genre painting painting by Artist"
+  },
+  {
+    "id": 89,
+    "filename": "00089.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "jacek-malczewski",
+    "caption": "a realist genre painting painting by jacek-malczewski"
+  },
+  {
+    "id": 90,
+    "filename": "00090.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "konstantin-makovsky",
+    "caption": "a realist genre painting painting by konstantin-makovsky"
+  },
+  {
+    "id": 91,
+    "filename": "00091.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a realist genre painting painting by Artist"
+  },
+  {
+    "id": 92,
+    "filename": "00092.png",
+    "style": "Realism",
+    "genre": "landscape",
+    "artist": "isaac-levitan",
+    "caption": "a realist landscape painting by isaac-levitan"
+  },
+  {
+    "id": 93,
+    "filename": "00093.png",
+    "style": "Realism",
+    "genre": "still_life",
+    "artist": "Unknown Artist",
+    "caption": "a realist still life painting by Artist"
+  },
+  {
+    "id": 94,
+    "filename": "00094.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a realist genre painting painting by Artist"
+  },
+  {
+    "id": 95,
+    "filename": "00095.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a realist genre painting painting by Artist"
+  },
+  {
+    "id": 96,
+    "filename": "00096.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "edouard-manet",
+    "caption": "a realist genre painting painting by edouard-manet"
+  },
+  {
+    "id": 97,
+    "filename": "00097.png",
+    "style": "Realism",
+    "genre": "genre_painting",
+    "artist": "vasily-perov",
+    "caption": "a realist genre painting painting by vasily-perov"
+  },
+  {
+    "id": 98,
+    "filename": "00098.png",
+    "style": "Realism",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a realist landscape painting by Artist"
+  },
+  {
+    "id": 99,
+    "filename": "00099.png",
+    "style": "Realism",
+    "genre": "nude_painting",
+    "artist": "Unknown Artist",
+    "caption": "a realist nude painting painting by Artist"
+  },
+  {
+    "id": 100,
+    "filename": "00100.png",
+    "style": "Romanticism",
+    "genre": "portrait",
+    "artist": "edward-burne-jones",
+    "caption": "a romantic portrait painting by edward-burne-jones"
+  },
+  {
+    "id": 101,
+    "filename": "00101.png",
+    "style": "Romanticism",
+    "genre": "landscape",
+    "artist": "karl-bryullov",
+    "caption": "a romantic landscape painting by karl-bryullov"
+  },
+  {
+    "id": 102,
+    "filename": "00102.png",
+    "style": "Romanticism",
+    "genre": "portrait",
+    "artist": "Unknown Artist",
+    "caption": "a romantic portrait painting by Artist"
+  },
+  {
+    "id": 103,
+    "filename": "00103.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "francisco-goya",
+    "caption": "a romantic genre painting painting by francisco-goya"
+  },
+  {
+    "id": 104,
+    "filename": "00104.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a romantic genre painting painting by Artist"
+  },
+  {
+    "id": 105,
+    "filename": "00105.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "jan-matejko",
+    "caption": "a romantic genre painting painting by jan-matejko"
+  },
+  {
+    "id": 106,
+    "filename": "00106.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a romantic genre painting painting by Artist"
+  },
+  {
+    "id": 107,
+    "filename": "00107.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "viktor-vasnetsov",
+    "caption": "a romantic genre painting painting by viktor-vasnetsov"
+  },
+  {
+    "id": 108,
+    "filename": "00108.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a romantic genre painting painting by Artist"
+  },
+  {
+    "id": 109,
+    "filename": "00109.png",
+    "style": "Romanticism",
+    "genre": "landscape",
+    "artist": "joseph-wright",
+    "caption": "a romantic landscape painting by joseph-wright"
+  },
+  {
+    "id": 110,
+    "filename": "00110.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "konstantin-makovsky",
+    "caption": "a romantic genre painting painting by konstantin-makovsky"
+  },
+  {
+    "id": 111,
+    "filename": "00111.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "sir-lawrence-alma-tadema",
+    "caption": "a romantic genre painting painting by sir-lawrence-alma-tadema"
+  },
+  {
+    "id": 112,
+    "filename": "00112.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "sir-lawrence-alma-tadema",
+    "caption": "a romantic genre painting painting by sir-lawrence-alma-tadema"
+  },
+  {
+    "id": 113,
+    "filename": "00113.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "jan-matejko",
+    "caption": "a romantic genre painting painting by jan-matejko"
+  },
+  {
+    "id": 114,
+    "filename": "00114.png",
+    "style": "Romanticism",
+    "genre": "portrait",
+    "artist": "karl-bryullov",
+    "caption": "a romantic portrait painting by karl-bryullov"
+  },
+  {
+    "id": 115,
+    "filename": "00115.png",
+    "style": "Romanticism",
+    "genre": "portrait",
+    "artist": "konstantin-makovsky",
+    "caption": "a romantic portrait painting by konstantin-makovsky"
+  },
+  {
+    "id": 116,
+    "filename": "00116.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a romantic genre painting painting by Artist"
+  },
+  {
+    "id": 117,
+    "filename": "00117.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a romantic genre painting painting by Artist"
+  },
+  {
+    "id": 118,
+    "filename": "00118.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "francisco-goya",
+    "caption": "a romantic genre painting painting by francisco-goya"
+  },
+  {
+    "id": 119,
+    "filename": "00119.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a romantic genre painting painting by Artist"
+  },
+  {
+    "id": 120,
+    "filename": "00120.png",
+    "style": "Romanticism",
+    "genre": "religious_painting",
+    "artist": "francisco-goya",
+    "caption": "a romantic religious painting painting by francisco-goya"
+  },
+  {
+    "id": 121,
+    "filename": "00121.png",
+    "style": "Romanticism",
+    "genre": "portrait",
+    "artist": "jan-matejko",
+    "caption": "a romantic portrait painting by jan-matejko"
+  },
+  {
+    "id": 122,
+    "filename": "00122.png",
+    "style": "Romanticism",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a romantic landscape painting by Artist"
+  },
+  {
+    "id": 123,
+    "filename": "00123.png",
+    "style": "Romanticism",
+    "genre": "portrait",
+    "artist": "konstantin-makovsky",
+    "caption": "a romantic portrait painting by konstantin-makovsky"
+  },
+  {
+    "id": 124,
+    "filename": "00124.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "konstantin-makovsky",
+    "caption": "a romantic genre painting painting by konstantin-makovsky"
+  },
+  {
+    "id": 125,
+    "filename": "00125.png",
+    "style": "Romanticism",
+    "genre": "portrait",
+    "artist": "francisco-goya",
+    "caption": "a romantic portrait painting by francisco-goya"
+  },
+  {
+    "id": 126,
+    "filename": "00126.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a romantic genre painting painting by Artist"
+  },
+  {
+    "id": 127,
+    "filename": "00127.png",
+    "style": "Romanticism",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a romantic landscape painting by Artist"
+  },
+  {
+    "id": 128,
+    "filename": "00128.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a romantic genre painting painting by Artist"
+  },
+  {
+    "id": 129,
+    "filename": "00129.png",
+    "style": "Romanticism",
+    "genre": "portrait",
+    "artist": "orest-kiprensky",
+    "caption": "a romantic portrait painting by orest-kiprensky"
+  },
+  {
+    "id": 130,
+    "filename": "00130.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a romantic genre painting painting by Artist"
+  },
+  {
+    "id": 131,
+    "filename": "00131.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a romantic genre painting painting by Artist"
+  },
+  {
+    "id": 132,
+    "filename": "00132.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a romantic genre painting painting by Artist"
+  },
+  {
+    "id": 133,
+    "filename": "00133.png",
+    "style": "Romanticism",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a romantic landscape painting by Artist"
+  },
+  {
+    "id": 134,
+    "filename": "00134.png",
+    "style": "Romanticism",
+    "genre": "cityscape",
+    "artist": "Unknown Artist",
+    "caption": "a romantic cityscape painting by Artist"
+  },
+  {
+    "id": 135,
+    "filename": "00135.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "sir-lawrence-alma-tadema",
+    "caption": "a romantic genre painting painting by sir-lawrence-alma-tadema"
+  },
+  {
+    "id": 136,
+    "filename": "00136.png",
+    "style": "Romanticism",
+    "genre": "portrait",
+    "artist": "jan-matejko",
+    "caption": "a romantic portrait painting by jan-matejko"
+  },
+  {
+    "id": 137,
+    "filename": "00137.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a romantic genre painting painting by Artist"
+  },
+  {
+    "id": 138,
+    "filename": "00138.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a romantic genre painting painting by Artist"
+  },
+  {
+    "id": 139,
+    "filename": "00139.png",
+    "style": "Romanticism",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a romantic landscape painting by Artist"
+  },
+  {
+    "id": 140,
+    "filename": "00140.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "sir-lawrence-alma-tadema",
+    "caption": "a romantic genre painting painting by sir-lawrence-alma-tadema"
+  },
+  {
+    "id": 141,
+    "filename": "00141.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a romantic genre painting painting by Artist"
+  },
+  {
+    "id": 142,
+    "filename": "00142.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "sir-lawrence-alma-tadema",
+    "caption": "a romantic genre painting painting by sir-lawrence-alma-tadema"
+  },
+  {
+    "id": 143,
+    "filename": "00143.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a romantic genre painting painting by Artist"
+  },
+  {
+    "id": 144,
+    "filename": "00144.png",
+    "style": "Romanticism",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a romantic landscape painting by Artist"
+  },
+  {
+    "id": 145,
+    "filename": "00145.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a romantic genre painting painting by Artist"
+  },
+  {
+    "id": 146,
+    "filename": "00146.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "sir-lawrence-alma-tadema",
+    "caption": "a romantic genre painting painting by sir-lawrence-alma-tadema"
+  },
+  {
+    "id": 147,
+    "filename": "00147.png",
+    "style": "Romanticism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a romantic genre painting painting by Artist"
+  },
+  {
+    "id": 148,
+    "filename": "00148.png",
+    "style": "Romanticism",
+    "genre": "portrait",
+    "artist": "Unknown Artist",
+    "caption": "a romantic portrait painting by Artist"
+  },
+  {
+    "id": 149,
+    "filename": "00149.png",
+    "style": "Romanticism",
+    "genre": "portrait",
+    "artist": "Unknown Artist",
+    "caption": "a romantic portrait painting by Artist"
+  },
+  {
+    "id": 150,
+    "filename": "00150.png",
+    "style": "Expressionism",
+    "genre": "portrait",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist portrait painting by Artist"
+  },
+  {
+    "id": 151,
+    "filename": "00151.png",
+    "style": "Expressionism",
+    "genre": "nude_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist nude painting painting by Artist"
+  },
+  {
+    "id": 152,
+    "filename": "00152.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "edvard-munch",
+    "caption": "a expressionist genre painting painting by edvard-munch"
+  },
+  {
+    "id": 153,
+    "filename": "00153.png",
+    "style": "Expressionism",
+    "genre": "portrait",
+    "artist": "ernst-ludwig-kirchner",
+    "caption": "a expressionist portrait painting by ernst-ludwig-kirchner"
+  },
+  {
+    "id": 154,
+    "filename": "00154.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 155,
+    "filename": "00155.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "ernst-ludwig-kirchner",
+    "caption": "a expressionist genre painting painting by ernst-ludwig-kirchner"
+  },
+  {
+    "id": 156,
+    "filename": "00156.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "lucian-freud",
+    "caption": "a expressionist genre painting painting by lucian-freud"
+  },
+  {
+    "id": 157,
+    "filename": "00157.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 158,
+    "filename": "00158.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 159,
+    "filename": "00159.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 160,
+    "filename": "00160.png",
+    "style": "Expressionism",
+    "genre": "portrait",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist portrait painting by Artist"
+  },
+  {
+    "id": 161,
+    "filename": "00161.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "henri-matisse",
+    "caption": "a expressionist genre painting painting by henri-matisse"
+  },
+  {
+    "id": 162,
+    "filename": "00162.png",
+    "style": "Expressionism",
+    "genre": "portrait",
+    "artist": "zinaida-serebriakova",
+    "caption": "a expressionist portrait painting by zinaida-serebriakova"
+  },
+  {
+    "id": 163,
+    "filename": "00163.png",
+    "style": "Expressionism",
+    "genre": "portrait",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist portrait painting by Artist"
+  },
+  {
+    "id": 164,
+    "filename": "00164.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 165,
+    "filename": "00165.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "edvard-munch",
+    "caption": "a expressionist genre painting painting by edvard-munch"
+  },
+  {
+    "id": 166,
+    "filename": "00166.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 167,
+    "filename": "00167.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 168,
+    "filename": "00168.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "edvard-munch",
+    "caption": "a expressionist genre painting painting by edvard-munch"
+  },
+  {
+    "id": 169,
+    "filename": "00169.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "egon-schiele",
+    "caption": "a expressionist genre painting painting by egon-schiele"
+  },
+  {
+    "id": 170,
+    "filename": "00170.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "henri-matisse",
+    "caption": "a expressionist genre painting painting by henri-matisse"
+  },
+  {
+    "id": 171,
+    "filename": "00171.png",
+    "style": "Expressionism",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist landscape painting by Artist"
+  },
+  {
+    "id": 172,
+    "filename": "00172.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 173,
+    "filename": "00173.png",
+    "style": "Expressionism",
+    "genre": "nude_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist nude painting painting by Artist"
+  },
+  {
+    "id": 174,
+    "filename": "00174.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 175,
+    "filename": "00175.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 176,
+    "filename": "00176.png",
+    "style": "Expressionism",
+    "genre": "portrait",
+    "artist": "amedeo-modigliani",
+    "caption": "a expressionist portrait painting by amedeo-modigliani"
+  },
+  {
+    "id": 177,
+    "filename": "00177.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 178,
+    "filename": "00178.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 179,
+    "filename": "00179.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "edvard-munch",
+    "caption": "a expressionist genre painting painting by edvard-munch"
+  },
+  {
+    "id": 180,
+    "filename": "00180.png",
+    "style": "Expressionism",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist landscape painting by Artist"
+  },
+  {
+    "id": 181,
+    "filename": "00181.png",
+    "style": "Expressionism",
+    "genre": "portrait",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist portrait painting by Artist"
+  },
+  {
+    "id": 182,
+    "filename": "00182.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 183,
+    "filename": "00183.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 184,
+    "filename": "00184.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 185,
+    "filename": "00185.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 186,
+    "filename": "00186.png",
+    "style": "Expressionism",
+    "genre": "portrait",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist portrait painting by Artist"
+  },
+  {
+    "id": 187,
+    "filename": "00187.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 188,
+    "filename": "00188.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 189,
+    "filename": "00189.png",
+    "style": "Expressionism",
+    "genre": "nude_painting",
+    "artist": "egon-schiele",
+    "caption": "a expressionist nude painting painting by egon-schiele"
+  },
+  {
+    "id": 190,
+    "filename": "00190.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 191,
+    "filename": "00191.png",
+    "style": "Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist abstract painting painting by Artist"
+  },
+  {
+    "id": 192,
+    "filename": "00192.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 193,
+    "filename": "00193.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 194,
+    "filename": "00194.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "ernst-ludwig-kirchner",
+    "caption": "a expressionist genre painting painting by ernst-ludwig-kirchner"
+  },
+  {
+    "id": 195,
+    "filename": "00195.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 196,
+    "filename": "00196.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 197,
+    "filename": "00197.png",
+    "style": "Expressionism",
+    "genre": "portrait",
+    "artist": "amedeo-modigliani",
+    "caption": "a expressionist portrait painting by amedeo-modigliani"
+  },
+  {
+    "id": 198,
+    "filename": "00198.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a expressionist genre painting painting by Artist"
+  },
+  {
+    "id": 199,
+    "filename": "00199.png",
+    "style": "Expressionism",
+    "genre": "genre_painting",
+    "artist": "edvard-munch",
+    "caption": "a expressionist genre painting painting by edvard-munch"
+  },
+  {
+    "id": 200,
+    "filename": "00200.png",
+    "style": "Post_Impressionism",
+    "genre": "portrait",
+    "artist": "Unknown Artist",
+    "caption": "a post-impressionist portrait painting by Artist"
+  },
+  {
+    "id": 201,
+    "filename": "00201.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a post-impressionist genre painting painting by Artist"
+  },
+  {
+    "id": 202,
+    "filename": "00202.png",
+    "style": "Post_Impressionism",
+    "genre": "still_life",
+    "artist": "ilya-mashkov",
+    "caption": "a post-impressionist still life painting by ilya-mashkov"
+  },
+  {
+    "id": 203,
+    "filename": "00203.png",
+    "style": "Post_Impressionism",
+    "genre": "cityscape",
+    "artist": "edouard-cortes",
+    "caption": "a post-impressionist cityscape painting by edouard-cortes"
+  },
+  {
+    "id": 204,
+    "filename": "00204.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "georges-seurat",
+    "caption": "a post-impressionist genre painting painting by georges-seurat"
+  },
+  {
+    "id": 205,
+    "filename": "00205.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "maurice-prendergast",
+    "caption": "a post-impressionist genre painting painting by maurice-prendergast"
+  },
+  {
+    "id": 206,
+    "filename": "00206.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "henri-de-toulouse-lautrec",
+    "caption": "a post-impressionist genre painting painting by henri-de-toulouse-lautrec"
+  },
+  {
+    "id": 207,
+    "filename": "00207.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "georges-seurat",
+    "caption": "a post-impressionist genre painting painting by georges-seurat"
+  },
+  {
+    "id": 208,
+    "filename": "00208.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "henri-de-toulouse-lautrec",
+    "caption": "a post-impressionist genre painting painting by henri-de-toulouse-lautrec"
+  },
+  {
+    "id": 209,
+    "filename": "00209.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "henri-de-toulouse-lautrec",
+    "caption": "a post-impressionist genre painting painting by henri-de-toulouse-lautrec"
+  },
+  {
+    "id": 210,
+    "filename": "00210.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "henri-matisse",
+    "caption": "a post-impressionist genre painting painting by henri-matisse"
+  },
+  {
+    "id": 211,
+    "filename": "00211.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "pierre-bonnard",
+    "caption": "a post-impressionist genre painting painting by pierre-bonnard"
+  },
+  {
+    "id": 212,
+    "filename": "00212.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "pierre-bonnard",
+    "caption": "a post-impressionist genre painting painting by pierre-bonnard"
+  },
+  {
+    "id": 213,
+    "filename": "00213.png",
+    "style": "Post_Impressionism",
+    "genre": "cityscape",
+    "artist": "Unknown Artist",
+    "caption": "a post-impressionist cityscape painting by Artist"
+  },
+  {
+    "id": 214,
+    "filename": "00214.png",
+    "style": "Post_Impressionism",
+    "genre": "sketch_and_study",
+    "artist": "Unknown Artist",
+    "caption": "a post-impressionist sketch and study painting by Artist"
+  },
+  {
+    "id": 215,
+    "filename": "00215.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "kuzma-petrov-vodkin",
+    "caption": "a post-impressionist genre painting painting by kuzma-petrov-vodkin"
+  },
+  {
+    "id": 216,
+    "filename": "00216.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "henri-de-toulouse-lautrec",
+    "caption": "a post-impressionist genre painting painting by henri-de-toulouse-lautrec"
+  },
+  {
+    "id": 217,
+    "filename": "00217.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "pierre-bonnard",
+    "caption": "a post-impressionist genre painting painting by pierre-bonnard"
+  },
+  {
+    "id": 218,
+    "filename": "00218.png",
+    "style": "Post_Impressionism",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a post-impressionist landscape painting by Artist"
+  },
+  {
+    "id": 219,
+    "filename": "00219.png",
+    "style": "Post_Impressionism",
+    "genre": "cityscape",
+    "artist": "edouard-cortes",
+    "caption": "a post-impressionist cityscape painting by edouard-cortes"
+  },
+  {
+    "id": 220,
+    "filename": "00220.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "paul-gauguin",
+    "caption": "a post-impressionist genre painting painting by paul-gauguin"
+  },
+  {
+    "id": 221,
+    "filename": "00221.png",
+    "style": "Post_Impressionism",
+    "genre": "landscape",
+    "artist": "paul-gauguin",
+    "caption": "a post-impressionist landscape painting by paul-gauguin"
+  },
+  {
+    "id": 222,
+    "filename": "00222.png",
+    "style": "Post_Impressionism",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a post-impressionist landscape painting by Artist"
+  },
+  {
+    "id": 223,
+    "filename": "00223.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "henri-de-toulouse-lautrec",
+    "caption": "a post-impressionist genre painting painting by henri-de-toulouse-lautrec"
+  },
+  {
+    "id": 224,
+    "filename": "00224.png",
+    "style": "Post_Impressionism",
+    "genre": "still_life",
+    "artist": "Unknown Artist",
+    "caption": "a post-impressionist still life painting by Artist"
+  },
+  {
+    "id": 225,
+    "filename": "00225.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "maurice-prendergast",
+    "caption": "a post-impressionist genre painting painting by maurice-prendergast"
+  },
+  {
+    "id": 226,
+    "filename": "00226.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "maurice-prendergast",
+    "caption": "a post-impressionist genre painting painting by maurice-prendergast"
+  },
+  {
+    "id": 227,
+    "filename": "00227.png",
+    "style": "Post_Impressionism",
+    "genre": "portrait",
+    "artist": "theo-van-rysselberghe",
+    "caption": "a post-impressionist portrait painting by theo-van-rysselberghe"
+  },
+  {
+    "id": 228,
+    "filename": "00228.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a post-impressionist genre painting painting by Artist"
+  },
+  {
+    "id": 229,
+    "filename": "00229.png",
+    "style": "Post_Impressionism",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a post-impressionist landscape painting by Artist"
+  },
+  {
+    "id": 230,
+    "filename": "00230.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "maurice-prendergast",
+    "caption": "a post-impressionist genre painting painting by maurice-prendergast"
+  },
+  {
+    "id": 231,
+    "filename": "00231.png",
+    "style": "Post_Impressionism",
+    "genre": "portrait",
+    "artist": "Unknown Artist",
+    "caption": "a post-impressionist portrait painting by Artist"
+  },
+  {
+    "id": 232,
+    "filename": "00232.png",
+    "style": "Post_Impressionism",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a post-impressionist landscape painting by Artist"
+  },
+  {
+    "id": 233,
+    "filename": "00233.png",
+    "style": "Post_Impressionism",
+    "genre": "cityscape",
+    "artist": "raoul-dufy",
+    "caption": "a post-impressionist cityscape painting by raoul-dufy"
+  },
+  {
+    "id": 234,
+    "filename": "00234.png",
+    "style": "Post_Impressionism",
+    "genre": "landscape",
+    "artist": "david-burliuk",
+    "caption": "a post-impressionist landscape painting by david-burliuk"
+  },
+  {
+    "id": 235,
+    "filename": "00235.png",
+    "style": "Post_Impressionism",
+    "genre": "landscape",
+    "artist": "maurice-prendergast",
+    "caption": "a post-impressionist landscape painting by maurice-prendergast"
+  },
+  {
+    "id": 236,
+    "filename": "00236.png",
+    "style": "Post_Impressionism",
+    "genre": "cityscape",
+    "artist": "paul-gauguin",
+    "caption": "a post-impressionist cityscape painting by paul-gauguin"
+  },
+  {
+    "id": 237,
+    "filename": "00237.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a post-impressionist genre painting painting by Artist"
+  },
+  {
+    "id": 238,
+    "filename": "00238.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "henri-de-toulouse-lautrec",
+    "caption": "a post-impressionist genre painting painting by henri-de-toulouse-lautrec"
+  },
+  {
+    "id": 239,
+    "filename": "00239.png",
+    "style": "Post_Impressionism",
+    "genre": "nude_painting",
+    "artist": "Unknown Artist",
+    "caption": "a post-impressionist nude painting painting by Artist"
+  },
+  {
+    "id": 240,
+    "filename": "00240.png",
+    "style": "Post_Impressionism",
+    "genre": "cityscape",
+    "artist": "maxime-maufra",
+    "caption": "a post-impressionist cityscape painting by maxime-maufra"
+  },
+  {
+    "id": 241,
+    "filename": "00241.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a post-impressionist genre painting painting by Artist"
+  },
+  {
+    "id": 242,
+    "filename": "00242.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "pierre-bonnard",
+    "caption": "a post-impressionist genre painting painting by pierre-bonnard"
+  },
+  {
+    "id": 243,
+    "filename": "00243.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "david-burliuk",
+    "caption": "a post-impressionist genre painting painting by david-burliuk"
+  },
+  {
+    "id": 244,
+    "filename": "00244.png",
+    "style": "Post_Impressionism",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a post-impressionist landscape painting by Artist"
+  },
+  {
+    "id": 245,
+    "filename": "00245.png",
+    "style": "Post_Impressionism",
+    "genre": "portrait",
+    "artist": "Unknown Artist",
+    "caption": "a post-impressionist portrait painting by Artist"
+  },
+  {
+    "id": 246,
+    "filename": "00246.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "georges-seurat",
+    "caption": "a post-impressionist genre painting painting by georges-seurat"
+  },
+  {
+    "id": 247,
+    "filename": "00247.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "georges-seurat",
+    "caption": "a post-impressionist genre painting painting by georges-seurat"
+  },
+  {
+    "id": 248,
+    "filename": "00248.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "georges-seurat",
+    "caption": "a post-impressionist genre painting painting by georges-seurat"
+  },
+  {
+    "id": 249,
+    "filename": "00249.png",
+    "style": "Post_Impressionism",
+    "genre": "genre_painting",
+    "artist": "alfred-sisley",
+    "caption": "a post-impressionist genre painting painting by alfred-sisley"
+  },
+  {
+    "id": 250,
+    "filename": "00250.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 251,
+    "filename": "00251.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 252,
+    "filename": "00252.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 253,
+    "filename": "00253.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 254,
+    "filename": "00254.png",
+    "style": "Baroque",
+    "genre": "religious_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque religious painting painting by Artist"
+  },
+  {
+    "id": 255,
+    "filename": "00255.png",
+    "style": "Baroque",
+    "genre": "portrait",
+    "artist": "Unknown Artist",
+    "caption": "a baroque portrait painting by Artist"
+  },
+  {
+    "id": 256,
+    "filename": "00256.png",
+    "style": "Baroque",
+    "genre": "portrait",
+    "artist": "anthony-van-dyck",
+    "caption": "a baroque portrait painting by anthony-van-dyck"
+  },
+  {
+    "id": 257,
+    "filename": "00257.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 258,
+    "filename": "00258.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "peter-paul-rubens",
+    "caption": "a baroque genre painting painting by peter-paul-rubens"
+  },
+  {
+    "id": 259,
+    "filename": "00259.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 260,
+    "filename": "00260.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 261,
+    "filename": "00261.png",
+    "style": "Baroque",
+    "genre": "portrait",
+    "artist": "frans-hals",
+    "caption": "a baroque portrait painting by frans-hals"
+  },
+  {
+    "id": 262,
+    "filename": "00262.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 263,
+    "filename": "00263.png",
+    "style": "Baroque",
+    "genre": "religious_painting",
+    "artist": "peter-paul-rubens",
+    "caption": "a baroque religious painting painting by peter-paul-rubens"
+  },
+  {
+    "id": 264,
+    "filename": "00264.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "bartolome-esteban-murillo",
+    "caption": "a baroque genre painting painting by bartolome-esteban-murillo"
+  },
+  {
+    "id": 265,
+    "filename": "00265.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 266,
+    "filename": "00266.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 267,
+    "filename": "00267.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 268,
+    "filename": "00268.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 269,
+    "filename": "00269.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 270,
+    "filename": "00270.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 271,
+    "filename": "00271.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 272,
+    "filename": "00272.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 273,
+    "filename": "00273.png",
+    "style": "Baroque",
+    "genre": "portrait",
+    "artist": "peter-paul-rubens",
+    "caption": "a baroque portrait painting by peter-paul-rubens"
+  },
+  {
+    "id": 274,
+    "filename": "00274.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 275,
+    "filename": "00275.png",
+    "style": "Baroque",
+    "genre": "religious_painting",
+    "artist": "bartolome-esteban-murillo",
+    "caption": "a baroque religious painting painting by bartolome-esteban-murillo"
+  },
+  {
+    "id": 276,
+    "filename": "00276.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 277,
+    "filename": "00277.png",
+    "style": "Baroque",
+    "genre": "portrait",
+    "artist": "frans-hals",
+    "caption": "a baroque portrait painting by frans-hals"
+  },
+  {
+    "id": 278,
+    "filename": "00278.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 279,
+    "filename": "00279.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 280,
+    "filename": "00280.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 281,
+    "filename": "00281.png",
+    "style": "Baroque",
+    "genre": "religious_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque religious painting painting by Artist"
+  },
+  {
+    "id": 282,
+    "filename": "00282.png",
+    "style": "Baroque",
+    "genre": "portrait",
+    "artist": "peter-paul-rubens",
+    "caption": "a baroque portrait painting by peter-paul-rubens"
+  },
+  {
+    "id": 283,
+    "filename": "00283.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "anthony-van-dyck",
+    "caption": "a baroque genre painting painting by anthony-van-dyck"
+  },
+  {
+    "id": 284,
+    "filename": "00284.png",
+    "style": "Baroque",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a baroque landscape painting by Artist"
+  },
+  {
+    "id": 285,
+    "filename": "00285.png",
+    "style": "Baroque",
+    "genre": "still_life",
+    "artist": "Unknown Artist",
+    "caption": "a baroque still life painting by Artist"
+  },
+  {
+    "id": 286,
+    "filename": "00286.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 287,
+    "filename": "00287.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 288,
+    "filename": "00288.png",
+    "style": "Baroque",
+    "genre": "religious_painting",
+    "artist": "bartolome-esteban-murillo",
+    "caption": "a baroque religious painting painting by bartolome-esteban-murillo"
+  },
+  {
+    "id": 289,
+    "filename": "00289.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 290,
+    "filename": "00290.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 291,
+    "filename": "00291.png",
+    "style": "Baroque",
+    "genre": "religious_painting",
+    "artist": "bartolome-esteban-murillo",
+    "caption": "a baroque religious painting painting by bartolome-esteban-murillo"
+  },
+  {
+    "id": 292,
+    "filename": "00292.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 293,
+    "filename": "00293.png",
+    "style": "Baroque",
+    "genre": "still_life",
+    "artist": "Unknown Artist",
+    "caption": "a baroque still life painting by Artist"
+  },
+  {
+    "id": 294,
+    "filename": "00294.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 295,
+    "filename": "00295.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 296,
+    "filename": "00296.png",
+    "style": "Baroque",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque genre painting painting by Artist"
+  },
+  {
+    "id": 297,
+    "filename": "00297.png",
+    "style": "Baroque",
+    "genre": "religious_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque religious painting painting by Artist"
+  },
+  {
+    "id": 298,
+    "filename": "00298.png",
+    "style": "Baroque",
+    "genre": "religious_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque religious painting painting by Artist"
+  },
+  {
+    "id": 299,
+    "filename": "00299.png",
+    "style": "Baroque",
+    "genre": "religious_painting",
+    "artist": "Unknown Artist",
+    "caption": "a baroque religious painting painting by Artist"
+  },
+  {
+    "id": 300,
+    "filename": "00300.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a cubist genre painting painting by Artist"
+  },
+  {
+    "id": 301,
+    "filename": "00301.png",
+    "style": "Cubism",
+    "genre": "cityscape",
+    "artist": "Unknown Artist",
+    "caption": "a cubist cityscape painting by Artist"
+  },
+  {
+    "id": 302,
+    "filename": "00302.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a cubist genre painting painting by Artist"
+  },
+  {
+    "id": 303,
+    "filename": "00303.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a cubist genre painting painting by Artist"
+  },
+  {
+    "id": 304,
+    "filename": "00304.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "fernand-leger",
+    "caption": "a cubist genre painting painting by fernand-leger"
+  },
+  {
+    "id": 305,
+    "filename": "00305.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a cubist genre painting painting by Artist"
+  },
+  {
+    "id": 306,
+    "filename": "00306.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a cubist genre painting painting by Artist"
+  },
+  {
+    "id": 307,
+    "filename": "00307.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a cubist genre painting painting by Artist"
+  },
+  {
+    "id": 308,
+    "filename": "00308.png",
+    "style": "Cubism",
+    "genre": "portrait",
+    "artist": "fernand-leger",
+    "caption": "a cubist portrait painting by fernand-leger"
+  },
+  {
+    "id": 309,
+    "filename": "00309.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "georges-braque",
+    "caption": "a cubist genre painting painting by georges-braque"
+  },
+  {
+    "id": 310,
+    "filename": "00310.png",
+    "style": "Cubism",
+    "genre": "still_life",
+    "artist": "Unknown Artist",
+    "caption": "a cubist still life painting by Artist"
+  },
+  {
+    "id": 311,
+    "filename": "00311.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "fernand-leger",
+    "caption": "a cubist genre painting painting by fernand-leger"
+  },
+  {
+    "id": 312,
+    "filename": "00312.png",
+    "style": "Cubism",
+    "genre": "still_life",
+    "artist": "Unknown Artist",
+    "caption": "a cubist still life painting by Artist"
+  },
+  {
+    "id": 313,
+    "filename": "00313.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a cubist genre painting painting by Artist"
+  },
+  {
+    "id": 314,
+    "filename": "00314.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a cubist genre painting painting by Artist"
+  },
+  {
+    "id": 315,
+    "filename": "00315.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "ernst-ludwig-kirchner",
+    "caption": "a cubist genre painting painting by ernst-ludwig-kirchner"
+  },
+  {
+    "id": 316,
+    "filename": "00316.png",
+    "style": "Cubism",
+    "genre": "portrait",
+    "artist": "Unknown Artist",
+    "caption": "a cubist portrait painting by Artist"
+  },
+  {
+    "id": 317,
+    "filename": "00317.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "ernst-ludwig-kirchner",
+    "caption": "a cubist genre painting painting by ernst-ludwig-kirchner"
+  },
+  {
+    "id": 318,
+    "filename": "00318.png",
+    "style": "Cubism",
+    "genre": "still_life",
+    "artist": "georges-braque",
+    "caption": "a cubist still life painting by georges-braque"
+  },
+  {
+    "id": 319,
+    "filename": "00319.png",
+    "style": "Cubism",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a cubist landscape painting by Artist"
+  },
+  {
+    "id": 320,
+    "filename": "00320.png",
+    "style": "Cubism",
+    "genre": "still_life",
+    "artist": "Unknown Artist",
+    "caption": "a cubist still life painting by Artist"
+  },
+  {
+    "id": 321,
+    "filename": "00321.png",
+    "style": "Cubism",
+    "genre": "still_life",
+    "artist": "Unknown Artist",
+    "caption": "a cubist still life painting by Artist"
+  },
+  {
+    "id": 322,
+    "filename": "00322.png",
+    "style": "Cubism",
+    "genre": "still_life",
+    "artist": "Unknown Artist",
+    "caption": "a cubist still life painting by Artist"
+  },
+  {
+    "id": 323,
+    "filename": "00323.png",
+    "style": "Cubism",
+    "genre": "nude_painting",
+    "artist": "juan-gris",
+    "caption": "a cubist nude painting painting by juan-gris"
+  },
+  {
+    "id": 324,
+    "filename": "00324.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a cubist genre painting painting by Artist"
+  },
+  {
+    "id": 325,
+    "filename": "00325.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a cubist genre painting painting by Artist"
+  },
+  {
+    "id": 326,
+    "filename": "00326.png",
+    "style": "Cubism",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a cubist landscape painting by Artist"
+  },
+  {
+    "id": 327,
+    "filename": "00327.png",
+    "style": "Cubism",
+    "genre": "portrait",
+    "artist": "Unknown Artist",
+    "caption": "a cubist portrait painting by Artist"
+  },
+  {
+    "id": 328,
+    "filename": "00328.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a cubist genre painting painting by Artist"
+  },
+  {
+    "id": 329,
+    "filename": "00329.png",
+    "style": "Cubism",
+    "genre": "still_life",
+    "artist": "georges-braque",
+    "caption": "a cubist still life painting by georges-braque"
+  },
+  {
+    "id": 330,
+    "filename": "00330.png",
+    "style": "Cubism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a cubist abstract painting painting by Artist"
+  },
+  {
+    "id": 331,
+    "filename": "00331.png",
+    "style": "Cubism",
+    "genre": "still_life",
+    "artist": "Unknown Artist",
+    "caption": "a cubist still life painting by Artist"
+  },
+  {
+    "id": 332,
+    "filename": "00332.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "fernand-leger",
+    "caption": "a cubist genre painting painting by fernand-leger"
+  },
+  {
+    "id": 333,
+    "filename": "00333.png",
+    "style": "Cubism",
+    "genre": "still_life",
+    "artist": "Unknown Artist",
+    "caption": "a cubist still life painting by Artist"
+  },
+  {
+    "id": 334,
+    "filename": "00334.png",
+    "style": "Cubism",
+    "genre": "still_life",
+    "artist": "Unknown Artist",
+    "caption": "a cubist still life painting by Artist"
+  },
+  {
+    "id": 335,
+    "filename": "00335.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "fernand-leger",
+    "caption": "a cubist genre painting painting by fernand-leger"
+  },
+  {
+    "id": 336,
+    "filename": "00336.png",
+    "style": "Cubism",
+    "genre": "still_life",
+    "artist": "juan-gris",
+    "caption": "a cubist still life painting by juan-gris"
+  },
+  {
+    "id": 337,
+    "filename": "00337.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "fernand-leger",
+    "caption": "a cubist genre painting painting by fernand-leger"
+  },
+  {
+    "id": 338,
+    "filename": "00338.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a cubist genre painting painting by Artist"
+  },
+  {
+    "id": 339,
+    "filename": "00339.png",
+    "style": "Cubism",
+    "genre": "portrait",
+    "artist": "juan-gris",
+    "caption": "a cubist portrait painting by juan-gris"
+  },
+  {
+    "id": 340,
+    "filename": "00340.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a cubist genre painting painting by Artist"
+  },
+  {
+    "id": 341,
+    "filename": "00341.png",
+    "style": "Cubism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a cubist abstract painting painting by Artist"
+  },
+  {
+    "id": 342,
+    "filename": "00342.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a cubist genre painting painting by Artist"
+  },
+  {
+    "id": 343,
+    "filename": "00343.png",
+    "style": "Cubism",
+    "genre": "portrait",
+    "artist": "Unknown Artist",
+    "caption": "a cubist portrait painting by Artist"
+  },
+  {
+    "id": 344,
+    "filename": "00344.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a cubist genre painting painting by Artist"
+  },
+  {
+    "id": 345,
+    "filename": "00345.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a cubist genre painting painting by Artist"
+  },
+  {
+    "id": 346,
+    "filename": "00346.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a cubist genre painting painting by Artist"
+  },
+  {
+    "id": 347,
+    "filename": "00347.png",
+    "style": "Cubism",
+    "genre": "still_life",
+    "artist": "Unknown Artist",
+    "caption": "a cubist still life painting by Artist"
+  },
+  {
+    "id": 348,
+    "filename": "00348.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a cubist genre painting painting by Artist"
+  },
+  {
+    "id": 349,
+    "filename": "00349.png",
+    "style": "Cubism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a cubist genre painting painting by Artist"
+  },
+  {
+    "id": 350,
+    "filename": "00350.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 351,
+    "filename": "00351.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "sam-francis",
+    "caption": "a abstract abstract painting painting by sam-francis"
+  },
+  {
+    "id": 352,
+    "filename": "00352.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 353,
+    "filename": "00353.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "sam-francis",
+    "caption": "a abstract abstract painting painting by sam-francis"
+  },
+  {
+    "id": 354,
+    "filename": "00354.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 355,
+    "filename": "00355.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 356,
+    "filename": "00356.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 357,
+    "filename": "00357.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 358,
+    "filename": "00358.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "sam-francis",
+    "caption": "a abstract abstract painting painting by sam-francis"
+  },
+  {
+    "id": 359,
+    "filename": "00359.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 360,
+    "filename": "00360.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 361,
+    "filename": "00361.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 362,
+    "filename": "00362.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 363,
+    "filename": "00363.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 364,
+    "filename": "00364.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "sam-francis",
+    "caption": "a abstract abstract painting painting by sam-francis"
+  },
+  {
+    "id": 365,
+    "filename": "00365.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 366,
+    "filename": "00366.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 367,
+    "filename": "00367.png",
+    "style": "Abstract_Expressionism",
+    "genre": "portrait",
+    "artist": "Unknown Artist",
+    "caption": "a abstract portrait painting by Artist"
+  },
+  {
+    "id": 368,
+    "filename": "00368.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 369,
+    "filename": "00369.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 370,
+    "filename": "00370.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 371,
+    "filename": "00371.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 372,
+    "filename": "00372.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 373,
+    "filename": "00373.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 374,
+    "filename": "00374.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "gene-davis",
+    "caption": "a abstract abstract painting painting by gene-davis"
+  },
+  {
+    "id": 375,
+    "filename": "00375.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 376,
+    "filename": "00376.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 377,
+    "filename": "00377.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 378,
+    "filename": "00378.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 379,
+    "filename": "00379.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 380,
+    "filename": "00380.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 381,
+    "filename": "00381.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 382,
+    "filename": "00382.png",
+    "style": "Abstract_Expressionism",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a abstract landscape painting by Artist"
+  },
+  {
+    "id": 383,
+    "filename": "00383.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 384,
+    "filename": "00384.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 385,
+    "filename": "00385.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 386,
+    "filename": "00386.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 387,
+    "filename": "00387.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "sam-francis",
+    "caption": "a abstract abstract painting painting by sam-francis"
+  },
+  {
+    "id": 388,
+    "filename": "00388.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 389,
+    "filename": "00389.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 390,
+    "filename": "00390.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 391,
+    "filename": "00391.png",
+    "style": "Abstract_Expressionism",
+    "genre": "illustration",
+    "artist": "henri-matisse",
+    "caption": "a abstract illustration painting by henri-matisse"
+  },
+  {
+    "id": 392,
+    "filename": "00392.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 393,
+    "filename": "00393.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 394,
+    "filename": "00394.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 395,
+    "filename": "00395.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 396,
+    "filename": "00396.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 397,
+    "filename": "00397.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 398,
+    "filename": "00398.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 399,
+    "filename": "00399.png",
+    "style": "Abstract_Expressionism",
+    "genre": "abstract_painting",
+    "artist": "Unknown Artist",
+    "caption": "a abstract abstract painting painting by Artist"
+  },
+  {
+    "id": 400,
+    "filename": "00400.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "zinaida-serebriakova",
+    "caption": "a symbolist genre painting painting by zinaida-serebriakova"
+  },
+  {
+    "id": 401,
+    "filename": "00401.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist genre painting painting by Artist"
+  },
+  {
+    "id": 402,
+    "filename": "00402.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "konstantin-somov",
+    "caption": "a symbolist genre painting painting by konstantin-somov"
+  },
+  {
+    "id": 403,
+    "filename": "00403.png",
+    "style": "Symbolism",
+    "genre": "illustration",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist illustration painting by Artist"
+  },
+  {
+    "id": 404,
+    "filename": "00404.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "edvard-munch",
+    "caption": "a symbolist genre painting painting by edvard-munch"
+  },
+  {
+    "id": 405,
+    "filename": "00405.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "odilon-redon",
+    "caption": "a symbolist genre painting painting by odilon-redon"
+  },
+  {
+    "id": 406,
+    "filename": "00406.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "konstantin-somov",
+    "caption": "a symbolist genre painting painting by konstantin-somov"
+  },
+  {
+    "id": 407,
+    "filename": "00407.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "konstantin-somov",
+    "caption": "a symbolist genre painting painting by konstantin-somov"
+  },
+  {
+    "id": 408,
+    "filename": "00408.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist genre painting painting by Artist"
+  },
+  {
+    "id": 409,
+    "filename": "00409.png",
+    "style": "Symbolism",
+    "genre": "cityscape",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist cityscape painting by Artist"
+  },
+  {
+    "id": 410,
+    "filename": "00410.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist genre painting painting by Artist"
+  },
+  {
+    "id": 411,
+    "filename": "00411.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "kuzma-petrov-vodkin",
+    "caption": "a symbolist genre painting painting by kuzma-petrov-vodkin"
+  },
+  {
+    "id": 412,
+    "filename": "00412.png",
+    "style": "Symbolism",
+    "genre": "landscape",
+    "artist": "edvard-munch",
+    "caption": "a symbolist landscape painting by edvard-munch"
+  },
+  {
+    "id": 413,
+    "filename": "00413.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist genre painting painting by Artist"
+  },
+  {
+    "id": 414,
+    "filename": "00414.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist genre painting painting by Artist"
+  },
+  {
+    "id": 415,
+    "filename": "00415.png",
+    "style": "Symbolism",
+    "genre": "religious_painting",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist religious painting painting by Artist"
+  },
+  {
+    "id": 416,
+    "filename": "00416.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist genre painting painting by Artist"
+  },
+  {
+    "id": 417,
+    "filename": "00417.png",
+    "style": "Symbolism",
+    "genre": "illustration",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist illustration painting by Artist"
+  },
+  {
+    "id": 418,
+    "filename": "00418.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist genre painting painting by Artist"
+  },
+  {
+    "id": 419,
+    "filename": "00419.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist genre painting painting by Artist"
+  },
+  {
+    "id": 420,
+    "filename": "00420.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist genre painting painting by Artist"
+  },
+  {
+    "id": 421,
+    "filename": "00421.png",
+    "style": "Symbolism",
+    "genre": "portrait",
+    "artist": "odilon-redon",
+    "caption": "a symbolist portrait painting by odilon-redon"
+  },
+  {
+    "id": 422,
+    "filename": "00422.png",
+    "style": "Symbolism",
+    "genre": "religious_painting",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist religious painting painting by Artist"
+  },
+  {
+    "id": 423,
+    "filename": "00423.png",
+    "style": "Symbolism",
+    "genre": "portrait",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist portrait painting by Artist"
+  },
+  {
+    "id": 424,
+    "filename": "00424.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "konstantin-somov",
+    "caption": "a symbolist genre painting painting by konstantin-somov"
+  },
+  {
+    "id": 425,
+    "filename": "00425.png",
+    "style": "Symbolism",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist landscape painting by Artist"
+  },
+  {
+    "id": 426,
+    "filename": "00426.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "henri-fantin-latour",
+    "caption": "a symbolist genre painting painting by henri-fantin-latour"
+  },
+  {
+    "id": 427,
+    "filename": "00427.png",
+    "style": "Symbolism",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist landscape painting by Artist"
+  },
+  {
+    "id": 428,
+    "filename": "00428.png",
+    "style": "Symbolism",
+    "genre": "illustration",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist illustration painting by Artist"
+  },
+  {
+    "id": 429,
+    "filename": "00429.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist genre painting painting by Artist"
+  },
+  {
+    "id": 430,
+    "filename": "00430.png",
+    "style": "Symbolism",
+    "genre": "religious_painting",
+    "artist": "odilon-redon",
+    "caption": "a symbolist religious painting painting by odilon-redon"
+  },
+  {
+    "id": 431,
+    "filename": "00431.png",
+    "style": "Symbolism",
+    "genre": "portrait",
+    "artist": "odilon-redon",
+    "caption": "a symbolist portrait painting by odilon-redon"
+  },
+  {
+    "id": 432,
+    "filename": "00432.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist genre painting painting by Artist"
+  },
+  {
+    "id": 433,
+    "filename": "00433.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist genre painting painting by Artist"
+  },
+  {
+    "id": 434,
+    "filename": "00434.png",
+    "style": "Symbolism",
+    "genre": "portrait",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist portrait painting by Artist"
+  },
+  {
+    "id": 435,
+    "filename": "00435.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist genre painting painting by Artist"
+  },
+  {
+    "id": 436,
+    "filename": "00436.png",
+    "style": "Symbolism",
+    "genre": "religious_painting",
+    "artist": "james-tissot",
+    "caption": "a symbolist religious painting painting by james-tissot"
+  },
+  {
+    "id": 437,
+    "filename": "00437.png",
+    "style": "Symbolism",
+    "genre": "sketch_and_study",
+    "artist": "kuzma-petrov-vodkin",
+    "caption": "a symbolist sketch and study painting by kuzma-petrov-vodkin"
+  },
+  {
+    "id": 438,
+    "filename": "00438.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist genre painting painting by Artist"
+  },
+  {
+    "id": 439,
+    "filename": "00439.png",
+    "style": "Symbolism",
+    "genre": "religious_painting",
+    "artist": "james-tissot",
+    "caption": "a symbolist religious painting painting by james-tissot"
+  },
+  {
+    "id": 440,
+    "filename": "00440.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist genre painting painting by Artist"
+  },
+  {
+    "id": 441,
+    "filename": "00441.png",
+    "style": "Symbolism",
+    "genre": "landscape",
+    "artist": "ferdinand-hodler",
+    "caption": "a symbolist landscape painting by ferdinand-hodler"
+  },
+  {
+    "id": 442,
+    "filename": "00442.png",
+    "style": "Symbolism",
+    "genre": "religious_painting",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist religious painting painting by Artist"
+  },
+  {
+    "id": 443,
+    "filename": "00443.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist genre painting painting by Artist"
+  },
+  {
+    "id": 444,
+    "filename": "00444.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist genre painting painting by Artist"
+  },
+  {
+    "id": 445,
+    "filename": "00445.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist genre painting painting by Artist"
+  },
+  {
+    "id": 446,
+    "filename": "00446.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "konstantin-somov",
+    "caption": "a symbolist genre painting painting by konstantin-somov"
+  },
+  {
+    "id": 447,
+    "filename": "00447.png",
+    "style": "Symbolism",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a symbolist landscape painting by Artist"
+  },
+  {
+    "id": 448,
+    "filename": "00448.png",
+    "style": "Symbolism",
+    "genre": "genre_painting",
+    "artist": "konstantin-somov",
+    "caption": "a symbolist genre painting painting by konstantin-somov"
+  },
+  {
+    "id": 449,
+    "filename": "00449.png",
+    "style": "Symbolism",
+    "genre": "religious_painting",
+    "artist": "gustave-moreau",
+    "caption": "a symbolist religious painting painting by gustave-moreau"
+  },
+  {
+    "id": 450,
+    "filename": "00450.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau genre painting painting by Artist"
+  },
+  {
+    "id": 451,
+    "filename": "00451.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau genre painting painting by Artist"
+  },
+  {
+    "id": 452,
+    "filename": "00452.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "koloman-moser",
+    "caption": "a art nouveau genre painting painting by koloman-moser"
+  },
+  {
+    "id": 453,
+    "filename": "00453.png",
+    "style": "Art_Nouveau",
+    "genre": "portrait",
+    "artist": "gustav-klimt",
+    "caption": "a art nouveau portrait painting by gustav-klimt"
+  },
+  {
+    "id": 454,
+    "filename": "00454.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau genre painting painting by Artist"
+  },
+  {
+    "id": 455,
+    "filename": "00455.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau genre painting painting by Artist"
+  },
+  {
+    "id": 456,
+    "filename": "00456.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau genre painting painting by Artist"
+  },
+  {
+    "id": 457,
+    "filename": "00457.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "henri-de-toulouse-lautrec",
+    "caption": "a art nouveau genre painting painting by henri-de-toulouse-lautrec"
+  },
+  {
+    "id": 458,
+    "filename": "00458.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "aubrey-beardsley",
+    "caption": "a art nouveau genre painting painting by aubrey-beardsley"
+  },
+  {
+    "id": 459,
+    "filename": "00459.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau genre painting painting by Artist"
+  },
+  {
+    "id": 460,
+    "filename": "00460.png",
+    "style": "Art_Nouveau",
+    "genre": "cityscape",
+    "artist": "mstislav-dobuzhinsky",
+    "caption": "a art nouveau cityscape painting by mstislav-dobuzhinsky"
+  },
+  {
+    "id": 461,
+    "filename": "00461.png",
+    "style": "Art_Nouveau",
+    "genre": "cityscape",
+    "artist": "egon-schiele",
+    "caption": "a art nouveau cityscape painting by egon-schiele"
+  },
+  {
+    "id": 462,
+    "filename": "00462.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "jacek-malczewski",
+    "caption": "a art nouveau genre painting painting by jacek-malczewski"
+  },
+  {
+    "id": 463,
+    "filename": "00463.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "henri-de-toulouse-lautrec",
+    "caption": "a art nouveau genre painting painting by henri-de-toulouse-lautrec"
+  },
+  {
+    "id": 464,
+    "filename": "00464.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau genre painting painting by Artist"
+  },
+  {
+    "id": 465,
+    "filename": "00465.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "henri-de-toulouse-lautrec",
+    "caption": "a art nouveau genre painting painting by henri-de-toulouse-lautrec"
+  },
+  {
+    "id": 466,
+    "filename": "00466.png",
+    "style": "Art_Nouveau",
+    "genre": "portrait",
+    "artist": "henri-de-toulouse-lautrec",
+    "caption": "a art nouveau portrait painting by henri-de-toulouse-lautrec"
+  },
+  {
+    "id": 467,
+    "filename": "00467.png",
+    "style": "Art_Nouveau",
+    "genre": "portrait",
+    "artist": "felix-vallotton",
+    "caption": "a art nouveau portrait painting by felix-vallotton"
+  },
+  {
+    "id": 468,
+    "filename": "00468.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "konstantin-somov",
+    "caption": "a art nouveau genre painting painting by konstantin-somov"
+  },
+  {
+    "id": 469,
+    "filename": "00469.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau genre painting painting by Artist"
+  },
+  {
+    "id": 470,
+    "filename": "00470.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau genre painting painting by Artist"
+  },
+  {
+    "id": 471,
+    "filename": "00471.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau genre painting painting by Artist"
+  },
+  {
+    "id": 472,
+    "filename": "00472.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "henri-de-toulouse-lautrec",
+    "caption": "a art nouveau genre painting painting by henri-de-toulouse-lautrec"
+  },
+  {
+    "id": 473,
+    "filename": "00473.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau genre painting painting by Artist"
+  },
+  {
+    "id": 474,
+    "filename": "00474.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau genre painting painting by Artist"
+  },
+  {
+    "id": 475,
+    "filename": "00475.png",
+    "style": "Art_Nouveau",
+    "genre": "illustration",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau illustration painting by Artist"
+  },
+  {
+    "id": 476,
+    "filename": "00476.png",
+    "style": "Art_Nouveau",
+    "genre": "religious_painting",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau religious painting painting by Artist"
+  },
+  {
+    "id": 477,
+    "filename": "00477.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "zinaida-serebriakova",
+    "caption": "a art nouveau genre painting painting by zinaida-serebriakova"
+  },
+  {
+    "id": 478,
+    "filename": "00478.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau genre painting painting by Artist"
+  },
+  {
+    "id": 479,
+    "filename": "00479.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau genre painting painting by Artist"
+  },
+  {
+    "id": 480,
+    "filename": "00480.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "henri-de-toulouse-lautrec",
+    "caption": "a art nouveau genre painting painting by henri-de-toulouse-lautrec"
+  },
+  {
+    "id": 481,
+    "filename": "00481.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "aubrey-beardsley",
+    "caption": "a art nouveau genre painting painting by aubrey-beardsley"
+  },
+  {
+    "id": 482,
+    "filename": "00482.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "jacek-malczewski",
+    "caption": "a art nouveau genre painting painting by jacek-malczewski"
+  },
+  {
+    "id": 483,
+    "filename": "00483.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "henri-de-toulouse-lautrec",
+    "caption": "a art nouveau genre painting painting by henri-de-toulouse-lautrec"
+  },
+  {
+    "id": 484,
+    "filename": "00484.png",
+    "style": "Art_Nouveau",
+    "genre": "illustration",
+    "artist": "ivan-bilibin",
+    "caption": "a art nouveau illustration painting by ivan-bilibin"
+  },
+  {
+    "id": 485,
+    "filename": "00485.png",
+    "style": "Art_Nouveau",
+    "genre": "sketch_and_study",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau sketch and study painting by Artist"
+  },
+  {
+    "id": 486,
+    "filename": "00486.png",
+    "style": "Art_Nouveau",
+    "genre": "religious_painting",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau religious painting painting by Artist"
+  },
+  {
+    "id": 487,
+    "filename": "00487.png",
+    "style": "Art_Nouveau",
+    "genre": "illustration",
+    "artist": "ivan-bilibin",
+    "caption": "a art nouveau illustration painting by ivan-bilibin"
+  },
+  {
+    "id": 488,
+    "filename": "00488.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "henri-de-toulouse-lautrec",
+    "caption": "a art nouveau genre painting painting by henri-de-toulouse-lautrec"
+  },
+  {
+    "id": 489,
+    "filename": "00489.png",
+    "style": "Art_Nouveau",
+    "genre": "illustration",
+    "artist": "koloman-moser",
+    "caption": "a art nouveau illustration painting by koloman-moser"
+  },
+  {
+    "id": 490,
+    "filename": "00490.png",
+    "style": "Art_Nouveau",
+    "genre": "cityscape",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau cityscape painting by Artist"
+  },
+  {
+    "id": 491,
+    "filename": "00491.png",
+    "style": "Art_Nouveau",
+    "genre": "illustration",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau illustration painting by Artist"
+  },
+  {
+    "id": 492,
+    "filename": "00492.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau genre painting painting by Artist"
+  },
+  {
+    "id": 493,
+    "filename": "00493.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "koloman-moser",
+    "caption": "a art nouveau genre painting painting by koloman-moser"
+  },
+  {
+    "id": 494,
+    "filename": "00494.png",
+    "style": "Art_Nouveau",
+    "genre": "illustration",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau illustration painting by Artist"
+  },
+  {
+    "id": 495,
+    "filename": "00495.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau genre painting painting by Artist"
+  },
+  {
+    "id": 496,
+    "filename": "00496.png",
+    "style": "Art_Nouveau",
+    "genre": "portrait",
+    "artist": "felix-vallotton",
+    "caption": "a art nouveau portrait painting by felix-vallotton"
+  },
+  {
+    "id": 497,
+    "filename": "00497.png",
+    "style": "Art_Nouveau",
+    "genre": "genre_painting",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau genre painting painting by Artist"
+  },
+  {
+    "id": 498,
+    "filename": "00498.png",
+    "style": "Art_Nouveau",
+    "genre": "landscape",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau landscape painting by Artist"
+  },
+  {
+    "id": 499,
+    "filename": "00499.png",
+    "style": "Art_Nouveau",
+    "genre": "cityscape",
+    "artist": "Unknown Artist",
+    "caption": "a art nouveau cityscape painting by Artist"
+  }
+]

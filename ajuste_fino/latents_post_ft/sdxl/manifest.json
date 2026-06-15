@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "base_01",
+    "category": "base",
+    "prompt": "a red apple on a wooden table, studio lighting, photorealistic",
+    "seed": 0,
+    "idx": 0
+  },
+  {
+    "id": "base_01",
+    "category": "base",
+    "prompt": "a red apple on a wooden table, studio lighting, photorealistic",
+    "seed": 1,
+    "idx": 1
+  },
+  {
+    "id": "base_01",
+    "category": "base",
+    "prompt": "a red apple on a wooden table, studio lighting, photorealistic",
+    "seed": 2,
+    "idx": 2
+  },
+  {
+    "id": "base_02",
+    "category": "base",
+    "prompt": "a golden retriever dog sitting in a sunlit park, photorealistic photograph",
+    "seed": 0,
+    "idx": 3
+  },
+  {
+    "id": "base_02",
+    "category": "base",
+    "prompt": "a golden retriever dog sitting in a sunlit park, photorealistic photograph",
+    "seed": 1,
+    "idx": 4
+  },
+  {
+    "id": "base_02",
+    "category": "base",
+    "prompt": "a golden retriever dog sitting in a sunlit park, photorealistic photograph",
+    "seed": 2,
+    "idx": 5
+  },
+  {
+    "id": "base_03",
+    "category": "base",
+    "prompt": "a futuristic city skyline at night with neon lights and reflections",
+    "seed": 0,
+    "idx": 6
+  },
+  {
+    "id": "base_03",
+    "category": "base",
+    "prompt": "a futuristic city skyline at night with neon lights and reflections",
+    "seed": 1,
+    "idx": 7
+  },
+  {
+    "id": "base_03",
+    "category": "base",
+    "prompt": "a futuristic city skyline at night with neon lights and reflections",
+    "seed": 2,
+    "idx": 8
+  },
+  {
+    "id": "base_04",
+    "category": "base",
+    "prompt": "a mountain lake at sunrise with mist and water reflections, landscape photography",
+    "seed": 0,
+    "idx": 9
+  },
+  {
+    "id": "base_04",
+    "category": "base",
+    "prompt": "a mountain lake at sunrise with mist and water reflections, landscape photography",
+    "seed": 1,
+    "idx": 10
+  },
+  {
+    "id": "base_04",
+    "category": "base",
+    "prompt": "a mountain lake at sunrise with mist and water reflections, landscape photography",
+    "seed": 2,
+    "idx": 11
+  },
+  {
+    "id": "base_05",
+    "category": "base",
+    "prompt": "a minimalist white living room with afternoon light through large windows",
+    "seed": 0,
+    "idx": 12
+  },
+  {
+    "id": "base_05",
+    "category": "base",
+    "prompt": "a minimalist white living room with afternoon light through large windows",
+    "seed": 1,
+    "idx": 13
+  },
+  {
+    "id": "base_05",
+    "category": "base",
+    "prompt": "a minimalist white living room with afternoon light through large windows",
+    "seed": 2,
+    "idx": 14
+  },
+  {
+    "id": "base_06",
+    "category": "base",
+    "prompt": "an ancient stone castle on a hilltop, overcast dramatic sky",
+    "seed": 0,
+    "idx": 15
+  },
+  {
+    "id": "base_06",
+    "category": "base",
+    "prompt": "an ancient stone castle on a hilltop, overcast dramatic sky",
+    "seed": 1,
+    "idx": 16
+  },
+  {
+    "id": "base_06",
+    "category": "base",
+    "prompt": "an ancient stone castle on a hilltop, overcast dramatic sky",
+    "seed": 2,
+    "idx": 17
+  },
+  {
+    "id": "base_07",
+    "category": "base",
+    "prompt": "a tropical beach with turquoise water and palm trees, sunny day",
+    "seed": 0,
+    "idx": 18
+  },
+  {
+    "id": "base_07",
+    "category": "base",
+    "prompt": "a tropical beach with turquoise water and palm trees, sunny day",
+    "seed": 1,
+    "idx": 19
+  },
+  {
+    "id": "base_07",
+    "category": "base",
+    "prompt": "a tropical beach with turquoise water and palm trees, sunny day",
+    "seed": 2,
+    "idx": 20
+  },
+  {
+    "id": "base_08",
+    "category": "base",
+    "prompt": "a forest path in autumn with golden and orange leaves, soft morning light",
+    "seed": 0,
+    "idx": 21
+  },
+  {
+    "id": "base_08",
+    "category": "base",
+    "prompt": "a forest path in autumn with golden and orange leaves, soft morning light",
+    "seed": 1,
+    "idx": 22
+  },
+  {
+    "id": "base_08",
+    "category": "base",
+    "prompt": "a forest path in autumn with golden and orange leaves, soft morning light",
+    "seed": 2,
+    "idx": 23
+  },
+  {
+    "id": "base_09",
+    "category": "base",
+    "prompt": "a cup of coffee with latte art on a wooden table, warm morning light",
+    "seed": 0,
+    "idx": 24
+  },
+  {
+    "id": "base_09",
+    "category": "base",
+    "prompt": "a cup of coffee with latte art on a wooden table, warm morning light",
+    "seed": 1,
+    "idx": 25
+  },
+  {
+    "id": "base_09",
+    "category": "base",
+    "prompt": "a cup of coffee with latte art on a wooden table, warm morning light",
+    "seed": 2,
+    "idx": 26
+  },
+  {
+    "id": "base_10",
+    "category": "base",
+    "prompt": "a rocket launching at dusk with an orange sky, long exposure photography",
+    "seed": 0,
+    "idx": 27
+  },
+  {
+    "id": "base_10",
+    "category": "base",
+    "prompt": "a rocket launching at dusk with an orange sky, long exposure photography",
+    "seed": 1,
+    "idx": 28
+  },
+  {
+    "id": "base_10",
+    "category": "base",
+    "prompt": "a rocket launching at dusk with an orange sky, long exposure photography",
+    "seed": 2,
+    "idx": 29
+  },
+  {
+    "id": "base_11",
+    "category": "base",
+    "prompt": "a bowl of ramen with steam rising, wooden chopsticks, close-up food photography",
+    "seed": 0,
+    "idx": 30
+  },
+  {
+    "id": "base_11",
+    "category": "base",
+    "prompt": "a bowl of ramen with steam rising, wooden chopsticks, close-up food photography",
+    "seed": 1,
+    "idx": 31
+  },
+  {
+    "id": "base_11",
+    "category": "base",
+    "prompt": "a bowl of ramen with steam rising, wooden chopsticks, close-up food photography",
+    "seed": 2,
+    "idx": 32
+  },
+  {
+    "id": "base_12",
+    "category": "base",
+    "prompt": "a black cat sitting on a windowsill with rain outside, cozy interior",
+    "seed": 0,
+    "idx": 33
+  },
+  {
+    "id": "base_12",
+    "category": "base",
+    "prompt": "a black cat sitting on a windowsill with rain outside, cozy interior",
+    "seed": 1,
+    "idx": 34
+  },
+  {
+    "id": "base_12",
+    "category": "base",
+    "prompt": "a black cat sitting on a windowsill with rain outside, cozy interior",
+    "seed": 2,
+    "idx": 35
+  },
+  {
+    "id": "base_13",
+    "category": "base",
+    "prompt": "a vintage red bicycle leaning against a textured brick wall",
+    "seed": 0,
+    "idx": 36
+  },
+  {
+    "id": "base_13",
+    "category": "base",
+    "prompt": "a vintage red bicycle leaning against a textured brick wall",
+    "seed": 1,
+    "idx": 37
+  },
+  {
+    "id": "base_13",
+    "category": "base",
+    "prompt": "a vintage red bicycle leaning against a textured brick wall",
+    "seed": 2,
+    "idx": 38
+  },
+  {
+    "id": "base_14",
+    "category": "base",
+    "prompt": "a waterfall in a lush tropical jungle, green vegetation, natural light",
+    "seed": 0,
+    "idx": 39
+  },
+  {
+    "id": "base_14",
+    "category": "base",
+    "prompt": "a waterfall in a lush tropical jungle, green vegetation, natural light",
+    "seed": 1,
+    "idx": 40
+  },
+  {
+    "id": "base_14",
+    "category": "base",
+    "prompt": "a waterfall in a lush tropical jungle, green vegetation, natural light",
+    "seed": 2,
+    "idx": 41
+  },
+  {
+    "id": "base_15",
+    "category": "base",
+    "prompt": "an elephant in the African savanna at golden hour, wildlife photography",
+    "seed": 0,
+    "idx": 42
+  },
+  {
+    "id": "base_15",
+    "category": "base",
+    "prompt": "an elephant in the African savanna at golden hour, wildlife photography",
+    "seed": 1,
+    "idx": 43
+  },
+  {
+    "id": "base_15",
+    "category": "base",
+    "prompt": "an elephant in the African savanna at golden hour, wildlife photography",
+    "seed": 2,
+    "idx": 44
+  },
+  {
+    "id": "base_16",
+    "category": "base",
+    "prompt": "Gothic cathedral interior with stained glass windows and light rays",
+    "seed": 0,
+    "idx": 45
+  },
+  {
+    "id": "base_16",
+    "category": "base",
+    "prompt": "Gothic cathedral interior with stained glass windows and light rays",
+    "seed": 1,
+    "idx": 46
+  },
+  {
+    "id": "base_16",
+    "category": "base",
+    "prompt": "Gothic cathedral interior with stained glass windows and light rays",
+    "seed": 2,
+    "idx": 47
+  },
+  {
+    "id": "base_17",
+    "category": "base",
+    "prompt": "a snow-covered mountain peak under a clear starry night sky",
+    "seed": 0,
+    "idx": 48
+  },
+  {
+    "id": "base_17",
+    "category": "base",
+    "prompt": "a snow-covered mountain peak under a clear starry night sky",
+    "seed": 1,
+    "idx": 49
+  },
+  {
+    "id": "base_17",
+    "category": "base",
+    "prompt": "a snow-covered mountain peak under a clear starry night sky",
+    "seed": 2,
+    "idx": 50
+  },
+  {
+    "id": "base_18",
+    "category": "base",
+    "prompt": "a wooden cabin in a snowy pine forest with smoke from the chimney",
+    "seed": 0,
+    "idx": 51
+  },
+  {
+    "id": "base_18",
+    "category": "base",
+    "prompt": "a wooden cabin in a snowy pine forest with smoke from the chimney",
+    "seed": 1,
+    "idx": 52
+  },
+  {
+    "id": "base_18",
+    "category": "base",
+    "prompt": "a wooden cabin in a snowy pine forest with smoke from the chimney",
+    "seed": 2,
+    "idx": 53
+  },
+  {
+    "id": "base_19",
+    "category": "base",
+    "prompt": "a sunflower field under a vivid blue sky, wide angle, warm colors",
+    "seed": 0,
+    "idx": 54
+  },
+  {
+    "id": "base_19",
+    "category": "base",
+    "prompt": "a sunflower field under a vivid blue sky, wide angle, warm colors",
+    "seed": 1,
+    "idx": 55
+  },
+  {
+    "id": "base_19",
+    "category": "base",
+    "prompt": "a sunflower field under a vivid blue sky, wide angle, warm colors",
+    "seed": 2,
+    "idx": 56
+  },
+  {
+    "id": "base_20",
+    "category": "base",
+    "prompt": "a modern glass skyscraper reflecting blue sky and clouds, architectural photography",
+    "seed": 0,
+    "idx": 57
+  },
+  {
+    "id": "base_20",
+    "category": "base",
+    "prompt": "a modern glass skyscraper reflecting blue sky and clouds, architectural photography",
+    "seed": 1,
+    "idx": 58
+  },
+  {
+    "id": "base_20",
+    "category": "base",
+    "prompt": "a modern glass skyscraper reflecting blue sky and clouds, architectural photography",
+    "seed": 2,
+    "idx": 59
+  },
+  {
+    "id": "color_apple_warm",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "warm",
+    "group": "color_apple",
+    "prompt": "a warm red apple on a white surface, soft golden ambient light, isolated",
+    "seed": 0,
+    "idx": 60
+  },
+  {
+    "id": "color_apple_warm",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "warm",
+    "group": "color_apple",
+    "prompt": "a warm red apple on a white surface, soft golden ambient light, isolated",
+    "seed": 1,
+    "idx": 61
+  },
+  {
+    "id": "color_apple_warm",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "warm",
+    "group": "color_apple",
+    "prompt": "a warm red apple on a white surface, soft golden ambient light, isolated",
+    "seed": 2,
+    "idx": 62
+  },
+  {
+    "id": "color_apple_cool",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "cool",
+    "group": "color_apple",
+    "prompt": "a cool blue apple on a white surface, soft blue ambient light, isolated",
+    "seed": 0,
+    "idx": 63
+  },
+  {
+    "id": "color_apple_cool",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "cool",
+    "group": "color_apple",
+    "prompt": "a cool blue apple on a white surface, soft blue ambient light, isolated",
+    "seed": 1,
+    "idx": 64
+  },
+  {
+    "id": "color_apple_cool",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "cool",
+    "group": "color_apple",
+    "prompt": "a cool blue apple on a white surface, soft blue ambient light, isolated",
+    "seed": 2,
+    "idx": 65
+  },
+  {
+    "id": "color_car_warm",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "warm",
+    "group": "color_car",
+    "prompt": "a warm orange sports car on a road, soft sunset golden light",
+    "seed": 0,
+    "idx": 66
+  },
+  {
+    "id": "color_car_warm",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "warm",
+    "group": "color_car",
+    "prompt": "a warm orange sports car on a road, soft sunset golden light",
+    "seed": 1,
+    "idx": 67
+  },
+  {
+    "id": "color_car_warm",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "warm",
+    "group": "color_car",
+    "prompt": "a warm orange sports car on a road, soft sunset golden light",
+    "seed": 2,
+    "idx": 68
+  },
+  {
+    "id": "color_car_cool",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "cool",
+    "group": "color_car",
+    "prompt": "a cool blue sports car on a road, soft overcast cool daylight",
+    "seed": 0,
+    "idx": 69
+  },
+  {
+    "id": "color_car_cool",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "cool",
+    "group": "color_car",
+    "prompt": "a cool blue sports car on a road, soft overcast cool daylight",
+    "seed": 1,
+    "idx": 70
+  },
+  {
+    "id": "color_car_cool",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "cool",
+    "group": "color_car",
+    "prompt": "a cool blue sports car on a road, soft overcast cool daylight",
+    "seed": 2,
+    "idx": 71
+  },
+  {
+    "id": "color_umbrella_warm",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "warm",
+    "group": "color_umbrella",
+    "prompt": "a warm yellow umbrella on a rainy city street, warm street lights",
+    "seed": 0,
+    "idx": 72
+  },
+  {
+    "id": "color_umbrella_warm",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "warm",
+    "group": "color_umbrella",
+    "prompt": "a warm yellow umbrella on a rainy city street, warm street lights",
+    "seed": 1,
+    "idx": 73
+  },
+  {
+    "id": "color_umbrella_warm",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "warm",
+    "group": "color_umbrella",
+    "prompt": "a warm yellow umbrella on a rainy city street, warm street lights",
+    "seed": 2,
+    "idx": 74
+  },
+  {
+    "id": "color_umbrella_cool",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "cool",
+    "group": "color_umbrella",
+    "prompt": "a cool teal umbrella on a rainy city street, grey overcast light",
+    "seed": 0,
+    "idx": 75
+  },
+  {
+    "id": "color_umbrella_cool",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "cool",
+    "group": "color_umbrella",
+    "prompt": "a cool teal umbrella on a rainy city street, grey overcast light",
+    "seed": 1,
+    "idx": 76
+  },
+  {
+    "id": "color_umbrella_cool",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "cool",
+    "group": "color_umbrella",
+    "prompt": "a cool teal umbrella on a rainy city street, grey overcast light",
+    "seed": 2,
+    "idx": 77
+  },
+  {
+    "id": "color_flower_warm",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "warm",
+    "group": "color_flower",
+    "prompt": "a vibrant red rose in a clear vase, warm indoor incandescent lighting",
+    "seed": 0,
+    "idx": 78
+  },
+  {
+    "id": "color_flower_warm",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "warm",
+    "group": "color_flower",
+    "prompt": "a vibrant red rose in a clear vase, warm indoor incandescent lighting",
+    "seed": 1,
+    "idx": 79
+  },
+  {
+    "id": "color_flower_warm",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "warm",
+    "group": "color_flower",
+    "prompt": "a vibrant red rose in a clear vase, warm indoor incandescent lighting",
+    "seed": 2,
+    "idx": 80
+  },
+  {
+    "id": "color_flower_cool",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "cool",
+    "group": "color_flower",
+    "prompt": "a deep blue rose in a clear vase, cool indoor LED lighting",
+    "seed": 0,
+    "idx": 81
+  },
+  {
+    "id": "color_flower_cool",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "cool",
+    "group": "color_flower",
+    "prompt": "a deep blue rose in a clear vase, cool indoor LED lighting",
+    "seed": 1,
+    "idx": 82
+  },
+  {
+    "id": "color_flower_cool",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "cool",
+    "group": "color_flower",
+    "prompt": "a deep blue rose in a clear vase, cool indoor LED lighting",
+    "seed": 2,
+    "idx": 83
+  },
+  {
+    "id": "color_balloon_warm",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "warm",
+    "group": "color_balloon",
+    "prompt": "a warm orange hot air balloon floating over a valley at sunrise",
+    "seed": 0,
+    "idx": 84
+  },
+  {
+    "id": "color_balloon_warm",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "warm",
+    "group": "color_balloon",
+    "prompt": "a warm orange hot air balloon floating over a valley at sunrise",
+    "seed": 1,
+    "idx": 85
+  },
+  {
+    "id": "color_balloon_warm",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "warm",
+    "group": "color_balloon",
+    "prompt": "a warm orange hot air balloon floating over a valley at sunrise",
+    "seed": 2,
+    "idx": 86
+  },
+  {
+    "id": "color_balloon_cool",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "cool",
+    "group": "color_balloon",
+    "prompt": "a cool blue hot air balloon floating over a valley at midday",
+    "seed": 0,
+    "idx": 87
+  },
+  {
+    "id": "color_balloon_cool",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "cool",
+    "group": "color_balloon",
+    "prompt": "a cool blue hot air balloon floating over a valley at midday",
+    "seed": 1,
+    "idx": 88
+  },
+  {
+    "id": "color_balloon_cool",
+    "category": "attribute",
+    "attribute_type": "color",
+    "attribute_value": "cool",
+    "group": "color_balloon",
+    "prompt": "a cool blue hot air balloon floating over a valley at midday",
+    "seed": 2,
+    "idx": 89
+  },
+  {
+    "id": "light_portrait_bright",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "bright",
+    "group": "light_portrait",
+    "prompt": "a woman portrait in bright natural daylight, high key, clean background",
+    "seed": 0,
+    "idx": 90
+  },
+  {
+    "id": "light_portrait_bright",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "bright",
+    "group": "light_portrait",
+    "prompt": "a woman portrait in bright natural daylight, high key, clean background",
+    "seed": 1,
+    "idx": 91
+  },
+  {
+    "id": "light_portrait_bright",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "bright",
+    "group": "light_portrait",
+    "prompt": "a woman portrait in bright natural daylight, high key, clean background",
+    "seed": 2,
+    "idx": 92
+  },
+  {
+    "id": "light_portrait_dark",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "dark",
+    "group": "light_portrait",
+    "prompt": "a woman portrait with dramatic low key lighting, deep shadows, dark background",
+    "seed": 0,
+    "idx": 93
+  },
+  {
+    "id": "light_portrait_dark",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "dark",
+    "group": "light_portrait",
+    "prompt": "a woman portrait with dramatic low key lighting, deep shadows, dark background",
+    "seed": 1,
+    "idx": 94
+  },
+  {
+    "id": "light_portrait_dark",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "dark",
+    "group": "light_portrait",
+    "prompt": "a woman portrait with dramatic low key lighting, deep shadows, dark background",
+    "seed": 2,
+    "idx": 95
+  },
+  {
+    "id": "light_kitchen_bright",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "bright",
+    "group": "light_kitchen",
+    "prompt": "a modern white kitchen bathed in bright morning sunlight, airy",
+    "seed": 0,
+    "idx": 96
+  },
+  {
+    "id": "light_kitchen_bright",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "bright",
+    "group": "light_kitchen",
+    "prompt": "a modern white kitchen bathed in bright morning sunlight, airy",
+    "seed": 1,
+    "idx": 97
+  },
+  {
+    "id": "light_kitchen_bright",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "bright",
+    "group": "light_kitchen",
+    "prompt": "a modern white kitchen bathed in bright morning sunlight, airy",
+    "seed": 2,
+    "idx": 98
+  },
+  {
+    "id": "light_kitchen_dark",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "dark",
+    "group": "light_kitchen",
+    "prompt": "a modern white kitchen at night, only under-cabinet LED lights, moody",
+    "seed": 0,
+    "idx": 99
+  },
+  {
+    "id": "light_kitchen_dark",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "dark",
+    "group": "light_kitchen",
+    "prompt": "a modern white kitchen at night, only under-cabinet LED lights, moody",
+    "seed": 1,
+    "idx": 100
+  },
+  {
+    "id": "light_kitchen_dark",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "dark",
+    "group": "light_kitchen",
+    "prompt": "a modern white kitchen at night, only under-cabinet LED lights, moody",
+    "seed": 2,
+    "idx": 101
+  },
+  {
+    "id": "light_forest_bright",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "bright",
+    "group": "light_forest",
+    "prompt": "a forest path at noon with bright sunbeams filtering through the canopy",
+    "seed": 0,
+    "idx": 102
+  },
+  {
+    "id": "light_forest_bright",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "bright",
+    "group": "light_forest",
+    "prompt": "a forest path at noon with bright sunbeams filtering through the canopy",
+    "seed": 1,
+    "idx": 103
+  },
+  {
+    "id": "light_forest_bright",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "bright",
+    "group": "light_forest",
+    "prompt": "a forest path at noon with bright sunbeams filtering through the canopy",
+    "seed": 2,
+    "idx": 104
+  },
+  {
+    "id": "light_forest_dark",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "dark",
+    "group": "light_forest",
+    "prompt": "a forest path at dusk with deep shadows and dim mysterious light",
+    "seed": 0,
+    "idx": 105
+  },
+  {
+    "id": "light_forest_dark",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "dark",
+    "group": "light_forest",
+    "prompt": "a forest path at dusk with deep shadows and dim mysterious light",
+    "seed": 1,
+    "idx": 106
+  },
+  {
+    "id": "light_forest_dark",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "dark",
+    "group": "light_forest",
+    "prompt": "a forest path at dusk with deep shadows and dim mysterious light",
+    "seed": 2,
+    "idx": 107
+  },
+  {
+    "id": "light_street_bright",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "bright",
+    "group": "light_street",
+    "prompt": "a cobblestone street on a bright sunny afternoon, sharp shadows",
+    "seed": 0,
+    "idx": 108
+  },
+  {
+    "id": "light_street_bright",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "bright",
+    "group": "light_street",
+    "prompt": "a cobblestone street on a bright sunny afternoon, sharp shadows",
+    "seed": 1,
+    "idx": 109
+  },
+  {
+    "id": "light_street_bright",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "bright",
+    "group": "light_street",
+    "prompt": "a cobblestone street on a bright sunny afternoon, sharp shadows",
+    "seed": 2,
+    "idx": 110
+  },
+  {
+    "id": "light_street_dark",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "dark",
+    "group": "light_street",
+    "prompt": "a cobblestone street at night with a single streetlamp, fog",
+    "seed": 0,
+    "idx": 111
+  },
+  {
+    "id": "light_street_dark",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "dark",
+    "group": "light_street",
+    "prompt": "a cobblestone street at night with a single streetlamp, fog",
+    "seed": 1,
+    "idx": 112
+  },
+  {
+    "id": "light_street_dark",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "dark",
+    "group": "light_street",
+    "prompt": "a cobblestone street at night with a single streetlamp, fog",
+    "seed": 2,
+    "idx": 113
+  },
+  {
+    "id": "light_still_life_bright",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "bright",
+    "group": "light_still_life",
+    "prompt": "a still life of fruits on a table, bright studio lighting, sharp and clean",
+    "seed": 0,
+    "idx": 114
+  },
+  {
+    "id": "light_still_life_bright",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "bright",
+    "group": "light_still_life",
+    "prompt": "a still life of fruits on a table, bright studio lighting, sharp and clean",
+    "seed": 1,
+    "idx": 115
+  },
+  {
+    "id": "light_still_life_bright",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "bright",
+    "group": "light_still_life",
+    "prompt": "a still life of fruits on a table, bright studio lighting, sharp and clean",
+    "seed": 2,
+    "idx": 116
+  },
+  {
+    "id": "light_still_life_dark",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "dark",
+    "group": "light_still_life",
+    "prompt": "a still life of fruits on a table, single candle light, dark moody atmosphere",
+    "seed": 0,
+    "idx": 117
+  },
+  {
+    "id": "light_still_life_dark",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "dark",
+    "group": "light_still_life",
+    "prompt": "a still life of fruits on a table, single candle light, dark moody atmosphere",
+    "seed": 1,
+    "idx": 118
+  },
+  {
+    "id": "light_still_life_dark",
+    "category": "attribute",
+    "attribute_type": "lighting",
+    "attribute_value": "dark",
+    "group": "light_still_life",
+    "prompt": "a still life of fruits on a table, single candle light, dark moody atmosphere",
+    "seed": 2,
+    "idx": 119
+  },
+  {
+    "id": "style_mountain_photo",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "photorealistic",
+    "group": "style_mountain",
+    "prompt": "a snowy mountain peak at sunrise, photorealistic landscape photograph",
+    "seed": 0,
+    "idx": 120
+  },
+  {
+    "id": "style_mountain_photo",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "photorealistic",
+    "group": "style_mountain",
+    "prompt": "a snowy mountain peak at sunrise, photorealistic landscape photograph",
+    "seed": 1,
+    "idx": 121
+  },
+  {
+    "id": "style_mountain_photo",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "photorealistic",
+    "group": "style_mountain",
+    "prompt": "a snowy mountain peak at sunrise, photorealistic landscape photograph",
+    "seed": 2,
+    "idx": 122
+  },
+  {
+    "id": "style_mountain_art",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "artistic",
+    "group": "style_mountain",
+    "prompt": "a snowy mountain peak at sunrise, impressionist oil painting style",
+    "seed": 0,
+    "idx": 123
+  },
+  {
+    "id": "style_mountain_art",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "artistic",
+    "group": "style_mountain",
+    "prompt": "a snowy mountain peak at sunrise, impressionist oil painting style",
+    "seed": 1,
+    "idx": 124
+  },
+  {
+    "id": "style_mountain_art",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "artistic",
+    "group": "style_mountain",
+    "prompt": "a snowy mountain peak at sunrise, impressionist oil painting style",
+    "seed": 2,
+    "idx": 125
+  },
+  {
+    "id": "style_portrait_photo",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "photorealistic",
+    "group": "style_portrait",
+    "prompt": "a young man portrait in a professional studio, photorealistic headshot",
+    "seed": 0,
+    "idx": 126
+  },
+  {
+    "id": "style_portrait_photo",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "photorealistic",
+    "group": "style_portrait",
+    "prompt": "a young man portrait in a professional studio, photorealistic headshot",
+    "seed": 1,
+    "idx": 127
+  },
+  {
+    "id": "style_portrait_photo",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "photorealistic",
+    "group": "style_portrait",
+    "prompt": "a young man portrait in a professional studio, photorealistic headshot",
+    "seed": 2,
+    "idx": 128
+  },
+  {
+    "id": "style_portrait_art",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "artistic",
+    "group": "style_portrait",
+    "prompt": "a young man portrait, expressive loose watercolor painting style",
+    "seed": 0,
+    "idx": 129
+  },
+  {
+    "id": "style_portrait_art",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "artistic",
+    "group": "style_portrait",
+    "prompt": "a young man portrait, expressive loose watercolor painting style",
+    "seed": 1,
+    "idx": 130
+  },
+  {
+    "id": "style_portrait_art",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "artistic",
+    "group": "style_portrait",
+    "prompt": "a young man portrait, expressive loose watercolor painting style",
+    "seed": 2,
+    "idx": 131
+  },
+  {
+    "id": "style_city_photo",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "photorealistic",
+    "group": "style_city",
+    "prompt": "aerial view of a city at dusk, photorealistic photography from above",
+    "seed": 0,
+    "idx": 132
+  },
+  {
+    "id": "style_city_photo",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "photorealistic",
+    "group": "style_city",
+    "prompt": "aerial view of a city at dusk, photorealistic photography from above",
+    "seed": 1,
+    "idx": 133
+  },
+  {
+    "id": "style_city_photo",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "photorealistic",
+    "group": "style_city",
+    "prompt": "aerial view of a city at dusk, photorealistic photography from above",
+    "seed": 2,
+    "idx": 134
+  },
+  {
+    "id": "style_city_art",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "artistic",
+    "group": "style_city",
+    "prompt": "aerial view of a city at dusk, detailed digital concept art illustration",
+    "seed": 0,
+    "idx": 135
+  },
+  {
+    "id": "style_city_art",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "artistic",
+    "group": "style_city",
+    "prompt": "aerial view of a city at dusk, detailed digital concept art illustration",
+    "seed": 1,
+    "idx": 136
+  },
+  {
+    "id": "style_city_art",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "artistic",
+    "group": "style_city",
+    "prompt": "aerial view of a city at dusk, detailed digital concept art illustration",
+    "seed": 2,
+    "idx": 137
+  },
+  {
+    "id": "style_forest_photo",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "photorealistic",
+    "group": "style_forest",
+    "prompt": "golden sunlight through tall forest trees, photorealistic nature photography",
+    "seed": 0,
+    "idx": 138
+  },
+  {
+    "id": "style_forest_photo",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "photorealistic",
+    "group": "style_forest",
+    "prompt": "golden sunlight through tall forest trees, photorealistic nature photography",
+    "seed": 1,
+    "idx": 139
+  },
+  {
+    "id": "style_forest_photo",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "photorealistic",
+    "group": "style_forest",
+    "prompt": "golden sunlight through tall forest trees, photorealistic nature photography",
+    "seed": 2,
+    "idx": 140
+  },
+  {
+    "id": "style_forest_art",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "artistic",
+    "group": "style_forest",
+    "prompt": "golden sunlight through tall forest trees, fantasy digital painting art style",
+    "seed": 0,
+    "idx": 141
+  },
+  {
+    "id": "style_forest_art",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "artistic",
+    "group": "style_forest",
+    "prompt": "golden sunlight through tall forest trees, fantasy digital painting art style",
+    "seed": 1,
+    "idx": 142
+  },
+  {
+    "id": "style_forest_art",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "artistic",
+    "group": "style_forest",
+    "prompt": "golden sunlight through tall forest trees, fantasy digital painting art style",
+    "seed": 2,
+    "idx": 143
+  },
+  {
+    "id": "style_cat_photo",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "photorealistic",
+    "group": "style_cat",
+    "prompt": "a tabby cat sleeping on a sofa, photorealistic pet photography",
+    "seed": 0,
+    "idx": 144
+  },
+  {
+    "id": "style_cat_photo",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "photorealistic",
+    "group": "style_cat",
+    "prompt": "a tabby cat sleeping on a sofa, photorealistic pet photography",
+    "seed": 1,
+    "idx": 145
+  },
+  {
+    "id": "style_cat_photo",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "photorealistic",
+    "group": "style_cat",
+    "prompt": "a tabby cat sleeping on a sofa, photorealistic pet photography",
+    "seed": 2,
+    "idx": 146
+  },
+  {
+    "id": "style_cat_art",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "artistic",
+    "group": "style_cat",
+    "prompt": "a tabby cat sleeping on a sofa, Studio Ghibli animation style illustration",
+    "seed": 0,
+    "idx": 147
+  },
+  {
+    "id": "style_cat_art",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "artistic",
+    "group": "style_cat",
+    "prompt": "a tabby cat sleeping on a sofa, Studio Ghibli animation style illustration",
+    "seed": 1,
+    "idx": 148
+  },
+  {
+    "id": "style_cat_art",
+    "category": "attribute",
+    "attribute_type": "style",
+    "attribute_value": "artistic",
+    "group": "style_cat",
+    "prompt": "a tabby cat sleeping on a sofa, Studio Ghibli animation style illustration",
+    "seed": 2,
+    "idx": 149
+  }
+]

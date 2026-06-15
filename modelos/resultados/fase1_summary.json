@@ -1,0 +1,65 @@
+{
+  "fase": 1,
+  "fecha_comparativa": "2026-05-28T19:11:16.778353",
+  "modelos_analizados": [
+    "sd15",
+    "sd21",
+    "sdxl"
+  ],
+  "modelos": {
+    "sd15": {
+      "model_key": "sd15",
+      "fecha": "2026-05-28T18:39:19.388199",
+      "prompt": "a red apple on a wooden table, studio lighting, photorealistic",
+      "seed": 42,
+      "num_steps": 50,
+      "latent_shape": [
+        1,
+        4,
+        64,
+        64
+      ],
+      "latent_dim": 16384,
+      "z0_mean": -0.082574,
+      "z0_std": 0.855585,
+      "z0_norm": 110.0203,
+      "vae_mae": 4.0039
+    },
+    "sd21": {
+      "model_key": "sd21",
+      "fecha": "2026-05-28T18:42:06.728434",
+      "prompt": "a red apple on a wooden table, studio lighting, photorealistic",
+      "seed": 42,
+      "num_steps": 50,
+      "latent_shape": [
+        1,
+        4,
+        96,
+        96
+      ],
+      "latent_dim": 36864,
+      "z0_mean": -0.161653,
+      "z0_std": 0.669081,
+      "z0_norm": 132.1581,
+      "vae_mae": 2.6404
+    },
+    "sdxl": {
+      "model_key": "sdxl",
+      "fecha": "2026-05-28T19:06:39.459123",
+      "prompt": "a red apple on a wooden table, studio lighting, photorealistic",
+      "seed": 42,
+      "num_steps": 30,
+      "latent_shape": [
+        1,
+        4,
+        128,
+        128
+      ],
+      "latent_dim": 65536,
+      "z0_mean": -0.188019,
+      "z0_std": 0.594863,
+      "z0_norm": 159.7095,
+      "vae_mae": 1.8022
+    }
+  }
+}
