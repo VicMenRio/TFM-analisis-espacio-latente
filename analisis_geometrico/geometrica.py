@@ -153,8 +153,11 @@ def separability_ratio(intra: np.ndarray, inter: np.ndarray) -> float:
 
 def _bootstrap_ci(x, y, func, n_boot=2000):
     rng = np.random.default_rng(42)
-    stats = [func(x[rng.integers(0, len(x), len(x))],
-                  y[rng.integers(0, len(y), len(y))]) for _ in range(n_boot)]
+    n = len(x)
+    stats = []
+    for _ in range(n_boot):
+        idx = rng.integers(0, n, n)
+        stats.append(func(x[idx], y[idx]))
     return float(np.percentile(stats, 2.5)), float(np.percentile(stats, 97.5))
 
 
