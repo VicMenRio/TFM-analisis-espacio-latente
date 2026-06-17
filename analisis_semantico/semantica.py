@@ -29,15 +29,15 @@ Análisis realizados (locales, sin GPU):
      — coherencia semántica, orthogonalidad, energy en PCA
 
 Entrada:
-  corpus/latents/{sd15,sd21,sdxl}/latents.pt   [N, 1, C, H, W]
-  corpus/latents/{sd15,sd21,sdxl}/manifest.json
+  data/latents/latents/{sd15,sd21,sdxl}/latents.pt   [N, 1, C, H, W]
+  data/latents/latents/{sd15,sd21,sdxl}/manifest.json
 
 Salida:
-  analisis_semantico/resultados/semantica_summary.json
-  analisis_semantico/resultados/sem_{model}_pca.png
-  analisis_semantico/resultados/sem_{model}_direcciones.png
-  analisis_semantico/resultados/sem_{model}_angulos.png
-  analisis_semantico/resultados/sem_cross_model.png
+  data/fase4/results/fase4_semantica_summary.json
+  data/fase4/results/sem_{model}_pca.png
+  data/fase4/results/sem_{model}_direcciones.png
+  data/fase4/results/sem_{model}_angulos.png
+  data/fase4/results/sem_cross_model.png
 """
 
 import json
@@ -55,8 +55,8 @@ import matplotlib.gridspec as gridspec
 import matplotlib.colors as mcolors
 
 ROOT = Path(__file__).resolve().parent.parent
-LATENTS_DIR = ROOT / "corpus" / "latents"
-RESULTS_DIR = ROOT / "analisis_semantico" / "resultados"
+LATENTS_DIR = ROOT / "data" / "latents" / "latents"
+RESULTS_DIR = ROOT / "data" / "fase4" / "results"
 RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 
 MODELS = ["sd15", "sd21", "sdxl"]
@@ -598,7 +598,7 @@ def main():
         "modelos": {m: {k: v for k, v in r.items() if not k.startswith("_")}
                     for m, r in all_results.items()},
     }
-    out = RESULTS_DIR / "semantica_summary.json"
+    out = RESULTS_DIR / "fase4_semantica_summary.json"
     with open(out, "w") as f:
         json.dump(summary, f, indent=2, default=str)
 

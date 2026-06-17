@@ -25,15 +25,15 @@ Análisis realizados (todos locales, sin GPU):
      — normalización de distancias, distribuciones, separabilidad.
 
 Entrada:
-  corpus/latents/{sd15,sd21,sdxl}/latents.pt   [N, 1, C, H, W]
-  corpus/latents/{sd15,sd21,sdxl}/manifest.json
-  corpus/latents/{sd15,sd21,sdxl}/images/       *.png  (512×512 RGB)
+  data/latents/latents/{sd15,sd21,sdxl}/latents.pt   [N, 1, C, H, W]
+  data/latents/latents/{sd15,sd21,sdxl}/manifest.json
+  data/latents/latents/{sd15,sd21,sdxl}/images/       *.png  (512×512 RGB)
 
 Salida:
-  analisis_geometrico/resultados/geometrica_summary.json
-  analisis_geometrico/resultados/geo_{model}_distancias.png
-  analisis_geometrico/resultados/geo_{model}_correlacion.png
-  analisis_geometrico/resultados/geo_cross_model.png
+  data/fase3/results/fase3_geometrica_summary.json
+  data/fase3/results/geo_{model}_distancias.png
+  data/fase3/results/geo_{model}_correlacion.png
+  data/fase3/results/geo_cross_model.png
 """
 
 import json
@@ -50,8 +50,8 @@ import matplotlib.pyplot as plt
 import matplotlib.gridspec as gridspec
 
 ROOT = Path(__file__).resolve().parent.parent
-LATENTS_DIR = ROOT / "corpus" / "latents"
-RESULTS_DIR = ROOT / "analisis_geometrico" / "resultados"
+LATENTS_DIR = ROOT / "data" / "latents" / "latents"
+RESULTS_DIR = ROOT / "data" / "fase3" / "results"
 RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 
 MODELS = ["sd15", "sd21", "sdxl"]
@@ -151,30 +151,29 @@ def separability_ratio(intra: np.ndarray, inter: np.ndarray) -> float:
 
 # ─── Correlación latente ↔ imagen ─────────────────────────────────────────────
 
+def _bootstrap_ci(x, y, func, n_boot=2000):
+    rng = np.random.default_rng(42)
+    stats = [func(x[rng.integers(0, len(x), len(x))],
+                  y[rng.integers(0, len(y), len(y))]) for _ in range(n_boot)]
+    return float(np.percentile(stats, 2.5)), float(np.percentile(stats, 97.5))
+
+
 def compute_latent_image_correlation(
     Z: np.ndarray,
     manifest: list[dict],
     images_dir: Path,
-    max_pairs: int = 500,
 ) -> dict:
     """
-    Muestrea pares de índices, calcula distancia L2 en latent y MSE/SSIM
-    en imagen, y mide la correlación (Pearson, Spearman).
+    Calcula la correlación latente↔imagen sobre TODOS los C(N,2) pares posibles.
+    Incluye IC al 95% por bootstrap (B=2000) para r(L2, -SSIM).
     Precarga todas las imágenes en memoria para evitar I/O repetido por par.
     """
     N = len(manifest)
-    # Precargar todas las imágenes de una vez (512×512×3 × 60 ≈ 45 MB)
     print("      Precargando imágenes...")
     images = {e["idx"]: load_image(images_dir, e["idx"]) for e in manifest}
 
-    # Generar todos los pares superiores, muestrar si hay demasiados
-    all_pairs = [(i, j) for i in range(N) for j in range(i + 1, N)]
-    rng = np.random.default_rng(42)
-    if len(all_pairs) > max_pairs:
-        sel = rng.choice(len(all_pairs), max_pairs, replace=False)
-        pairs = [all_pairs[k] for k in sel]
-    else:
-        pairs = all_pairs
+    # Todos los pares posibles C(N, 2)
+    pairs = [(i, j) for i in range(N) for j in range(i + 1, N)]
 
     latent_dists, mse_vals, ssim_vals = [], [], []
 
@@ -192,23 +191,27 @@ def compute_latent_image_correlation(
     mse = np.array(mse_vals)
     ssim = np.array(ssim_vals)
 
-    r_mse, p_mse = pearsonr(ld, mse)
-    rho_mse, _ = spearmanr(ld, mse)
-    r_ssim, p_ssim = pearsonr(ld, -ssim)   # -ssim para que mayor latent dist ↔ menor similitud
-    rho_ssim, _ = spearmanr(ld, -ssim)
+    r_mse,  p_mse  = pearsonr(ld, mse)
+    rho_mse,  _    = spearmanr(ld, mse)
+    r_ssim, p_ssim = pearsonr(ld, -ssim)
+    rho_ssim, _    = spearmanr(ld, -ssim)
+
+    ci_mse  = _bootstrap_ci(ld, mse,  lambda x, y: pearsonr(x, y)[0])
+    ci_ssim = _bootstrap_ci(ld, -ssim, lambda x, y: pearsonr(x, y)[0])
 
     return {
         "n_pairs": len(pairs),
-        "pearson_latent_vs_mse": float(r_mse),
-        "spearman_latent_vs_mse": float(rho_mse),
-        "pearson_pvalue_mse": float(p_mse),
-        "pearson_latent_vs_neg_ssim": float(r_ssim),
+        "pearson_latent_vs_mse":       float(r_mse),
+        "pearson_ci95_mse":            list(ci_mse),
+        "spearman_latent_vs_mse":      float(rho_mse),
+        "pearson_pvalue_mse":          float(p_mse),
+        "pearson_latent_vs_neg_ssim":  float(r_ssim),
+        "pearson_ci95_ssim":           list(ci_ssim),
         "spearman_latent_vs_neg_ssim": float(rho_ssim),
-        "pearson_pvalue_ssim": float(p_ssim),
-        # para plots
+        "pearson_pvalue_ssim":         float(p_ssim),
         "_latent_dists": ld,
-        "_mse_vals": mse,
-        "_ssim_vals": ssim,
+        "_mse_vals":     mse,
+        "_ssim_vals":    ssim,
     }
 
 
@@ -462,8 +465,8 @@ def run_model(model: str) -> dict | None:
           f"dims@95%={er['dims_95pct_variance']}")
 
     # 3. Correlación latente ↔ imagen
-    print("    [3/4] Correlación latente ↔ imagen (muestreo de pares)...")
-    corr = compute_latent_image_correlation(Z_base, mf_base, images_dir, max_pairs=500)
+    print("    [3/4] Correlación latente ↔ imagen (todos los pares)...")
+    corr = compute_latent_image_correlation(Z_base, mf_base, images_dir)
     print(f"    r(dist, MSE)={corr['pearson_latent_vs_mse']:.3f}  "
           f"ρ={corr['spearman_latent_vs_mse']:.3f}  "
           f"r(dist, -SSIM)={corr['pearson_latent_vs_neg_ssim']:.3f}")
@@ -520,7 +523,7 @@ def main():
         "modelos": {m: {k: v for k, v in r.items() if not k.startswith("_")}
                     for m, r in all_results.items()},
     }
-    out = RESULTS_DIR / "geometrica_summary.json"
+    out = RESULTS_DIR / "fase3_geometrica_summary.json"
     with open(out, "w") as f:
         json.dump(summary, f, indent=2)
 
