@@ -1,0 +1,18 @@
+{
+  "model_key": "sd15",
+  "fecha": "2026-05-28T18:39:19.388199",
+  "prompt": "a red apple on a wooden table, studio lighting, photorealistic",
+  "seed": 42,
+  "num_steps": 50,
+  "latent_shape": [
+    1,
+    4,
+    64,
+    64
+  ],
+  "latent_dim": 16384,
+  "z0_mean": -0.082574,
+  "z0_std": 0.855585,
+  "z0_norm": 110.0203,
+  "vae_mae": 4.0039
+}

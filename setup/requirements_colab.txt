@@ -1,0 +1,22 @@
+# Dependencias para Google Colab (PyTorch ya viene preinstalado)
+
+# Diffusion models
+diffusers>=0.30.0
+transformers==4.48.0
+accelerate>=1.0.0
+safetensors>=0.4.3
+
+# Fine-tuning eficiente
+peft>=0.12.0
+bitsandbytes>=0.43.1
+torchao>=0.16.0
+datasets
+
+# Métricas perceptuales
+lpips==0.1.4
+open-clip-torch>=2.24.0
+
+# Utilidades
+huggingface-hub>=0.26.5
+datasets>=2.19.1
+einops

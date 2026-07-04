@@ -1,0 +1,115 @@
+{
+  "fase": 3,
+  "subtarea": "geometrica",
+  "fecha": "2026-06-17T17:08:10.886168",
+  "modelos": {
+    "sd15": {
+      "model": "sd15",
+      "latent_dim": 16384,
+      "n_samples_base": 60,
+      "intra_mean": 151.76547241210938,
+      "intra_std": 16.43854522705078,
+      "inter_mean": 148.04847717285156,
+      "inter_std": 22.434127807617188,
+      "separability_ratio": 0.9755082945419915,
+      "ks_statistic_intra_vs_inter": 0.14239766081871344,
+      "ks_pvalue_intra_vs_inter": 0.17324785524535272,
+      "effective_rank": {
+        "participation_ratio": 12.351882242654264,
+        "dims_80pct_variance": 25,
+        "dims_90pct_variance": 38,
+        "dims_95pct_variance": 46,
+        "total_variance": 11225.759765625
+      },
+      "correlation": {
+        "n_pairs": 1770,
+        "pearson_latent_vs_mse": 0.7265502241960516,
+        "pearson_ci95_mse": [
+          0.7075740552838714,
+          0.7441235294062455
+        ],
+        "spearman_latent_vs_mse": 0.7477944976516336,
+        "pearson_pvalue_mse": 1.9180201382948154e-290,
+        "pearson_latent_vs_neg_ssim": 0.7804671820510942,
+        "pearson_ci95_ssim": [
+          0.763130480131649,
+          0.7978883042417416
+        ],
+        "spearman_latent_vs_neg_ssim": 0.743659329423491,
+        "pearson_pvalue_ssim": 0.0
+      }
+    },
+    "sd21": {
+      "model": "sd21",
+      "latent_dim": 36864,
+      "n_samples_base": 60,
+      "intra_mean": 195.76759338378906,
+      "intra_std": 22.388273239135742,
+      "inter_mean": 189.14291381835938,
+      "inter_std": 30.746843338012695,
+      "separability_ratio": 0.9661604892792237,
+      "ks_statistic_intra_vs_inter": 0.1865497076023392,
+      "ks_pvalue_intra_vs_inter": 0.030825257440097793,
+      "effective_rank": {
+        "participation_ratio": 12.328753843535806,
+        "dims_80pct_variance": 27,
+        "dims_90pct_variance": 39,
+        "dims_95pct_variance": 47,
+        "total_variance": 18395.8984375
+      },
+      "correlation": {
+        "n_pairs": 1770,
+        "pearson_latent_vs_mse": 0.7234882190331562,
+        "pearson_ci95_mse": [
+          0.7045357959718413,
+          0.7419810279684492
+        ],
+        "spearman_latent_vs_mse": 0.7503045986147117,
+        "pearson_pvalue_mse": 7.556041135091986e-287,
+        "pearson_latent_vs_neg_ssim": 0.761525636843456,
+        "pearson_ci95_ssim": [
+          0.7425177414544883,
+          0.7793353723127363
+        ],
+        "spearman_latent_vs_neg_ssim": 0.7462641106561742,
+        "pearson_pvalue_ssim": 0.0
+      }
+    },
+    "sdxl": {
+      "model": "sdxl",
+      "latent_dim": 65536,
+      "n_samples_base": 60,
+      "intra_mean": 230.49569702148438,
+      "intra_std": 34.995357513427734,
+      "inter_mean": 257.59796142578125,
+      "inter_std": 42.92451477050781,
+      "separability_ratio": 1.1175825177794745,
+      "ks_statistic_intra_vs_inter": 0.3043859649122807,
+      "ks_pvalue_intra_vs_inter": 2.9430944445594865e-05,
+      "effective_rank": {
+        "participation_ratio": 11.558904526549759,
+        "dims_80pct_variance": 22,
+        "dims_90pct_variance": 35,
+        "dims_95pct_variance": 45,
+        "total_variance": 33864.93359375
+      },
+      "correlation": {
+        "n_pairs": 1770,
+        "pearson_latent_vs_mse": 0.6588582999536886,
+        "pearson_ci95_mse": [
+          0.6339830737094373,
+          0.6831407145383879
+        ],
+        "spearman_latent_vs_mse": 0.677624704569804,
+        "pearson_pvalue_mse": 7.670261072366507e-221,
+        "pearson_latent_vs_neg_ssim": 0.7072979696767127,
+        "pearson_ci95_ssim": [
+          0.6787921284782946,
+          0.7339589872612107
+        ],
+        "spearman_latent_vs_neg_ssim": 0.6956174251366611,
+        "pearson_pvalue_ssim": 1.288493764895453e-268
+      }
+    }
+  }
+}
